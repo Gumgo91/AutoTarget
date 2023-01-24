@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
-setup(name='autotarget', # 패키지 명
+setup(name='autotarget',
 
-version='0.0.0.0',
+version='1.0.0.0',
 
 description='Disease-associated drug targets recommendation system using graph theory and machine learning',
 
@@ -20,6 +20,6 @@ python_requires='>=3',
 
 install_requires=[],
 
-packages=['autotarget']
-
+packages=['autotarget'],
+package_data={'autotarget': ['data/*']}
 )

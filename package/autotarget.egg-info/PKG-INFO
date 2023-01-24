@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: autotarget
+Version: 1.0.0.0
+Summary: Disease-associated drug targets recommendation system using graph theory and machine learning
+Home-page: https://github.com/gumgo91
+Author: Hyunseung Kong
+Author-email: hskong@snu.ac.kr
+License: MIT
+Requires-Python: >=3
