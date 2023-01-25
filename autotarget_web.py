@@ -20,7 +20,7 @@ side_mode = st.sidebar.radio("Mode", ['exact', 'partial'])
 side_threshold = st.sidebar.text_input(label="Threshold", value="0.05", max_chars=10)
 searcher.change_threshold(float(side_threshold))
 
-side_link = st.sidebar.write("[@Hyunseung Kong](https://www.linkedin.com/in/hyunseungkong/)")
+side_link = st.sidebar.write("[@Hyunseung Kong](https://github.com/Gumgo91)")
 
 if side_mode == 'exact':
     disease = st.selectbox("Disease name", searcher.search_disease(''))
