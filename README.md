@@ -20,7 +20,7 @@ Target discovery, the first stage of early drug discovery, is a time-consuming a
 
 ![image](https://user-images.githubusercontent.com/65825773/216899986-8096cca8-0bd9-40ab-955d-4898c2864767.png)
 
-Figure shows two pathways with similar network structures in the protein-protein network (PPI). B and D are structurally equivalent nodes in the two pathways that lead to different reactions. Both nodes are at the end of each pathway, which leads directly to each phenomenon. If the flow of the two pathways is similar and protein B is a drug target, protein D can also be considered as a potential drug target.
+The above figure shows two pathways with similar network structures in the protein-protein network (PPI). B and D are structurally equivalent nodes in the two pathways that lead to different reactions. Both nodes are at the end of each pathway, which leads directly to each phenomenon. If the flow of the two pathways is similar and protein B is a drug target, protein D can also be considered as a potential drug target.
 
 
 ## Installation
