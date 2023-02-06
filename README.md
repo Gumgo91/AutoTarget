@@ -13,6 +13,7 @@
 
 * [General Info](#general-info)
 * [Installation](#installation)
+* [Web Interface](#Web-Interface)
 * [Contact](#Contact)
 
 ## General Info
