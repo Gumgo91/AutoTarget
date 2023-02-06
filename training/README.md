@@ -1,5 +1,5 @@
 # Training
-Due to Github's upload capacity limit, you must download the dataset from outside to reproduce model learning.
+Due to Github's upload capacity limit, you must download some datasets to reproduce model training.
 
 ## Dataset preparation
 **1. Download STRING DB**
