@@ -28,5 +28,8 @@ The above figure shows two pathways with similar network structures in the prote
 $ pip install AutoTarget
 ```
 
+## Web Interface
+AutoTarget provides web-based access. Through the web interface, researchers can use all functions of the AutoTarget library in a GUI. The web interface was programmed through Streamlit. The web interface version can be accessed via https://gumgo91.github.io/apps/autotarget .
+
 ## Contact
 If you have any questions or suggestions, please contact us at hskong@snu.ac.kr.
