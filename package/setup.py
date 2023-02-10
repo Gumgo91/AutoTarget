@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(name='autotarget',
 
-version='1.0.0.1',
+version='1.0.0.3',
 
 description='A Disease-Associated Drug Target Recommendation System using Node Classification with Neighborhood Context in PPI Networks',
 

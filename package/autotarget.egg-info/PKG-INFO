@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: autotarget
-Version: 1.0.0.1
+Version: 1.0.0.3
 Summary: A Disease-Associated Drug Target Recommendation System using Node Classification with Neighborhood Context in PPI Networks
 Home-page: https://github.com/gumgo91/AutoTarget
 Author: Hyunseung Kong
