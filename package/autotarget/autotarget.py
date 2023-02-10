@@ -50,6 +50,5 @@ class Searcher():
         else:
             output = output[output['diseaseName']==keyword]
         output = output.sort_values('probability', ascending=False)
-        output = output[['id', 'probability', 'label', 'Entry', 'Protein names', 'UniProtKB', 'geneName', 'pLI', 'DSI', 'DPI', 'diseaseName']]
         output = output.drop_duplicates(subset=None, keep='first', inplace=False, ignore_index=True)
         return output        
