@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: autotarget
-Version: 1.0.0.0
-Summary: Disease-associated drug targets recommendation system using graph theory and machine learning
-Home-page: https://github.com/gumgo91
+Version: 1.0.0.1
+Summary: A Disease-Associated Drug Target Recommendation System using Node Classification with Neighborhood Context in PPI Networks
+Home-page: https://github.com/gumgo91/AutoTarget
 Author: Hyunseung Kong
 Author-email: hskong@snu.ac.kr
 License: MIT

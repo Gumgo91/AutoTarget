@@ -8,7 +8,7 @@ class Searcher():
         self.df['label'] = (self.df['probability'] > threshold) * 1.0
         
     def __init__(self, path=pt + 'data/targets_inference_complete.csv', threshold=0.05):
-        self.df_all = pd.read_csv(path)
+        self.df_all = pd.read_csv(path, compression='gzip')
         print(f'Loaded {len(self.df_all)} data from file.')
         self.diseases = set(self.df_all['diseaseName'])
         print(f'{len(self.diseases)} disease names were extracted.')

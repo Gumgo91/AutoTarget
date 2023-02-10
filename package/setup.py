@@ -2,15 +2,15 @@ from setuptools import setup, find_packages
 
 setup(name='autotarget',
 
-version='1.0.0.0',
+version='1.0.0.1',
 
-description='Disease-associated drug targets recommendation system using graph theory and machine learning',
+description='A Disease-Associated Drug Target Recommendation System using Node Classification with Neighborhood Context in PPI Networks',
 
 author='Hyunseung Kong',
 
 author_email='hskong@snu.ac.kr',
 
-url='https://github.com/gumgo91',
+url='https://github.com/gumgo91/AutoTarget',
 
 license='MIT',
 
