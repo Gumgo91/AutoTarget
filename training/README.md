@@ -23,7 +23,7 @@ Due to Github's upload capacity limit, you must download some datasets to reprod
 **4. Node2Vec**
 - Embedding each protein node of the STRING DB in step 1.
 - https://github.com/snap-stanford/snap/tree/master/examples/node2vec
-- ./node2vec -i:graph/all.edgelist -o:emb/p10q5.emb -l:3 -d:24 -p:10 -q:0.5 -dr -v
+- ./node2vec -i:graph/all.edgelist -o:emb/p10q5.emb -l:3 -d:128 -p:10 -q:0.5 -dr -v
 - Output file is the second input file(p10q5.emb) of the autotarget jupyter notebook file.
 
 ## Training
