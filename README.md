@@ -1,8 +1,8 @@
 <h1 align="center">
-  AutoTarget: A Disease-Associated Drug Target Recommendation System using Node Classification with Neighborhood Context in PPI Networks
+  AutoTarget: A Disease-Associated Drug Target Recommendation System via Node2vec Representation Learning in PPI Networks
   <br/>
     <a href="https://pypi.org/project/autotarget/">
-        <img src="https://img.shields.io/badge/pypi-1.0.0.0-green" alt="AutoTarget on PyPI">
+        <img src="https://img.shields.io/badge/pypi-1.0.0.3-green" alt="AutoTarget on PyPI">
     </a>
     <a href="">
         <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT">
@@ -17,8 +17,7 @@
 * [Contact](#Contact)
 
 ## General Info
-Target discovery, the initial stage of early drug development, is a critical and resource-intensive process. This is because an improper target selection can result in ineffective drug efficacy. As a result, pharmaceutical companies invest considerable time and resources to find the appropriate target at the outset. To address this challenge, we introduce AutoTarget, a disease-associated drug target recommendation system that uses node classification and neighborhood context in protein-protein interaction networks. AutoTarget predicts drug targets that are structurally equivalent to existing drugs on the market by leveraging the premise that potential drug targets exhibit similar local structural and neighborhood context within PPI networks. With AutoTarget, researchers can quickly and easily obtain a list of novel drug targets related to a specific disease, streamlining their drug discovery process.
-
+Target discovery, the initial stage of early drug development, is a critical and resource-intensive process. This is because an improper target selection can result in ineffective drug efficacy. As a result, pharmaceutical companies invest considerable time and resources to find the appropriate target at the outset. To address this challenge, we introduce AutoTarget, a disease-associated drug target recommendation system that uses node2vec with node classification and neighborhood context in protein-protein interaction networks. AutoTarget predicts drug targets structurally equivalent to existing drugs on the market by leveraging the premise that potential drug targets exhibit similar local structural and neighborhood context within PPI networks. With AutoTarget, researchers can quickly and easily obtain a list of novel drug targets related to a specific disease, streamlining their drug discovery process.
 ![image](https://user-images.githubusercontent.com/65825773/218240443-4cca0afe-7e75-4e49-b3a9-01075fc55b5a.png)
 
 
