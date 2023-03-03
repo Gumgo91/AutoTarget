@@ -7,6 +7,9 @@
     <a href="">
         <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT">
     </a>
+    <a href="https://pepy.tech/project/autotarget">
+        <img src="https://static.pepy.tech/badge/autotarget">
+    </a>
 </h1>
 
 ## Table of Contents
