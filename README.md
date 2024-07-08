@@ -1,22 +1,11 @@
 <h1 align="center">
   AutoTarget: A Disease-Associated Drug Target Recommendation System via Node2vec Representation Learning in PPI Networks
-  <br/>
-    <a href="https://pypi.org/project/autotarget/">
-        <img src="https://img.shields.io/badge/pypi-1.0.0.3-green" alt="AutoTarget on PyPI">
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT">
-    </a>
-    <a href="https://pepy.tech/project/autotarget">
-        <img src="https://static.pepy.tech/badge/autotarget">
-    </a>
 </h1>
 
 ## Table of Contents
 
 * [General Info](#general-info)
-* [Installation](#installation)
-* [Web Interface](#Web-Interface)
+* [Training](#Training)
 * [Contact](#Contact)
 
 ## General Info
@@ -26,13 +15,31 @@ Target discovery, the initial stage of early drug development, is a critical and
 
 The above figure illustrates the process of embedding through the utilization of neighborhood context and structural equivalence between nodes. The node marked as α, depicted in black, serves as the central node, while the remaining nodes depicted in white, represent the neighborhood nodes. The vector representation of α can be derived based on the contextual information of its neighboring nodes at various depths. In this study, each node is represented as a 128-dimensional vector. β and γ are both connected to a single node at depth 1 and to two nodes at depth 2, with the directions of their edges being consistent. β and γ display similar connectivity patterns, and as a result, possess structural equivalence. If the protein β is associated with disease 1 and serves as a drug target, and the protein γ is linked to disease 2, this indicates that γ could serve as a novel potential drug target for disease 2. Furthermore, if a neighborhood context δ, similar to β, is identified in a pathway where the target for drug discovery is currently unknown, then δ can also be considered as a potential target. 
 
-## Installation
-```bash
-$ pip install AutoTarget
-```
+## Training
+Due to Github's upload capacity limit, you must download some datasets to reproduce model training.
 
-## Web Interface
-In addition to the Python library, AutoTarget also offers web-based access, enabling researchers to utilize all functions of the AutoTarget library through a graphical user interface (GUI). The web interface has been developed using Streamlit, and can be accessed through the following URL: https://gumgo91.github.io/apps/autotarget. This provides researchers with a convenient and user-friendly way to access the capabilities of the AutoTarget pipeline, without the need for any prior programming knowledge.
+**1. Download STRING DB**
+- protein network data (full network, scored links between proteins)
+- species: Homo sapiens
+- https://stringdb-static.org/download/protein.links.v11.5/9606.protein.links.v11.5.txt.gz
+- Convert to all.edgelist using 1. conversion jupyter notebook file.
+
+**2. Download Therapeutic Target Database(TTD)**
+ - Target Information Downloads
+ - Download Uniprot IDs for successful targets only
+ - https://db.idrblab.net/ttd/sites/default/files/ttd_database/P2-02-TTD_uniprot_successful.txt
+
+**3. Conversion of identifiers using bioDBnet**
+ - The TTD database from step 2 is used as input.
+ - Input: UniProt Entry name
+ - Output: Ensemble protein ID
+ - https://biodbnet-abcc.ncifcrf.gov/db/db2db.php
+ - This is the first input file of the autotarget Jupyter notebook file.
+
+**4. Node2Vec+**
+- Embedding each protein node of the STRING DB in step 1.
+- https://github.com/krishnanlab/PecanPy
+- ./pecanpy --input graph/all.edgelist --output demo/karate_n2vplus.emb --mode SparseOTF --extend
 
 ## Contact
 If you have any questions or suggestions, please contact us at hskong@snu.ac.kr.

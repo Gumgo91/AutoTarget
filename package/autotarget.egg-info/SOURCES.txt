@@ -1,8 +1,0 @@
-setup.py
-autotarget/autotarget.py
-autotarget/init.py
-autotarget.egg-info/PKG-INFO
-autotarget.egg-info/SOURCES.txt
-autotarget.egg-info/dependency_links.txt
-autotarget.egg-info/top_level.txt
-autotarget/data/targets_inference_complete.csv

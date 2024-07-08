@@ -1,0 +1,4037 @@
+
+TTD - Therapeutic Targets Database Full Data Download File
+Title - Uniprot IDs for all TTD targets
+Version 10.1.01 (2024.01.10)
+Provided by IDRB   Lab of Innovative Drug Reasearch and Bioinformatics
+                   College of Pharmaceutical Sciences
+                   Zhejiang University
+                   https://idrblab.org/
+Provided by BIDD   BioInformatic and Drug Design Group
+                   Department of Pharmacy
+                   National Unviersity of Singapore
+                   https://bidd.group/
+Any question about data provided here, please contact with:
+Dr. Zhou (zhou_ying@zju.edu.cn) and Dr. Zhang (zhangyintao@zju.edu.cn)
+
+--------------------------------------------------------------------------------------------------------
+Abbreviation Index:
+TARGETID	TTD Target ID
+UNIPROID	Uniprot ID
+TARGNAME	Target Name
+TARGTYPE	Target Type
+-------------------------------------------------------------------------------------------------------
+
+TARGETID	T00140
+UNIPROID	LOX5_HUMAN
+TARGNAME	Arachidonate 5-lipoxygenase (5-LOX)
+TARGTYPE	Successful target
+
+TARGETID	T00494
+UNIPROID	ABCA1_HUMAN
+TARGNAME	ATP-binding cassette transporter A1 (ABCA1)
+TARGTYPE	Successful target
+
+TARGETID	T00884
+UNIPROID	CXCR1_HUMAN
+TARGNAME	C-X-C chemokine receptor type 1 (CXCR1)
+TARGTYPE	Successful target
+
+TARGETID	T00895
+UNIPROID	KPCE_HUMAN
+TARGNAME	Protein kinase C epsilon (PRKCE)
+TARGTYPE	Successful target
+
+TARGETID	T00972
+UNIPROID	ENV_HV1H2
+TARGNAME	Human immunodeficiency virus Envelope glycoprotein gp120 (HIV gp120)
+TARGTYPE	Successful target
+
+TARGETID	T01318
+UNIPROID	PYRD_PLAF7
+TARGNAME	Plasmodium Dihydroorotate dehydrogenase (Malaria DHOdehase)
+TARGTYPE	Successful target
+
+TARGETID	T01777
+UNIPROID	ADA2C_HUMAN
+TARGNAME	Adrenergic receptor alpha-2C (ADRA2C)
+TARGTYPE	Successful target
+
+TARGETID	T01840
+UNIPROID	NOUNIPROTAC
+TARGNAME	Protease unspecific (PRO)
+TARGTYPE	Successful target
+
+TARGETID	T02001
+UNIPROID	PDE4D_HUMAN
+TARGNAME	Phosphodiesterase 4D (PDE4D)
+TARGTYPE	Successful target
+
+TARGETID	T02119
+UNIPROID	ARSB_HUMAN
+TARGNAME	N-acetylgalactosamine-4-sulfatase (G4S)
+TARGTYPE	Successful target
+
+TARGETID	T02246
+UNIPROID	NOUNIPROTAC
+TARGNAME	Iron (Fe)
+TARGTYPE	Successful target
+
+TARGETID	T02318
+UNIPROID	TN13B_HUMAN
+TARGNAME	B-cell-activating factor (TNFSF13B)
+TARGTYPE	Successful target
+
+TARGETID	T02333
+UNIPROID	GHR_HUMAN
+TARGNAME	Growth hormone receptor (GHR)
+TARGTYPE	Successful target
+
+TARGETID	T02551
+UNIPROID	DRD3_HUMAN
+TARGNAME	Dopamine D3 receptor (D3R)
+TARGTYPE	Successful target
+
+TARGETID	T02777
+UNIPROID	ABCC9_HUMAN
+TARGNAME	ATP-binding cassette transporter C9 (ABCC9)
+TARGTYPE	Successful target
+
+TARGETID	T02808
+UNIPROID	IFNB_HUMAN
+TARGNAME	Interferon-beta (IFNB1)
+TARGTYPE	Successful target
+
+TARGETID	T03006
+UNIPROID	NOUNIPROTAC
+TARGNAME	Acetylcholine release (Ach rele)
+TARGTYPE	Successful target
+
+TARGETID	T03313
+UNIPROID	IL2RA_HUMAN
+TARGNAME	Interleukin 2 receptor alpha (IL2RA)
+TARGTYPE	Successful target
+
+TARGETID	T03346
+UNIPROID	IL4RA_HUMAN
+TARGNAME	Interleukin 4 receptor alpha (IL4R)
+TARGTYPE	Successful target
+
+TARGETID	T03403
+UNIPROID	PGH1_HUMAN; PGH2_HUMAN
+TARGNAME	Prostaglandin G/H synthase (COX)
+TARGTYPE	Successful target
+
+TARGETID	T03661
+UNIPROID	ADA_HUMAN
+TARGNAME	Adenosine deaminase (ADA)
+TARGTYPE	Successful target
+
+TARGETID	T03691
+UNIPROID	LKHA4_HUMAN
+TARGNAME	Leukotriene A-4 hydrolase (LTA4H)
+TARGTYPE	Successful target
+
+TARGETID	T03896
+UNIPROID	POLG_HCV1
+TARGNAME	Hepatitis C virus Serine protease NS3/4A (HCV NS3/4A)
+TARGTYPE	Successful target
+
+TARGETID	T03917
+UNIPROID	AT1A1_HUMAN; AT1A2_HUMAN; AT1A3_HUMAN; AT1B1_HUMAN; AT1B2_HUMAN; AT1B3_HUMAN
+TARGNAME	Sodium/potassium-transporting ATPase (SPT ATPase)
+TARGTYPE	Successful target
+
+TARGETID	T04394
+UNIPROID	NOUNIPROTAC
+TARGNAME	Vasopressin receptor (VR)
+TARGTYPE	Successful target
+
+TARGETID	T04689
+UNIPROID	ACHA_HUMAN
+TARGNAME	Neuronal acetylcholine receptor alpha-1 (CHRNA1)
+TARGTYPE	Successful target
+
+TARGETID	T05089
+UNIPROID	ANO1_HUMAN
+TARGNAME	Calcium-dependent chloride channel anoctamin (ANO)
+TARGTYPE	Successful target
+
+TARGETID	T05152
+UNIPROID	POLG_HCV1
+TARGNAME	Hepatitis C virus RNA-directed RNA polymerase (HCV NS5B)
+TARGTYPE	Successful target
+
+TARGETID	T05196
+UNIPROID	NOUNIPROTAC
+TARGNAME	Uric acid (URA)
+TARGTYPE	Successful target
+
+TARGETID	T05849
+UNIPROID	GASR_HUMAN
+TARGNAME	Gastrin/cholecystokinin type B receptor (CCKBR)
+TARGTYPE	Successful target
+
+TARGETID	T05876
+UNIPROID	VGP_EBOZM
+TARGNAME	Ebola virus Envelope glycoprotein (EV GP)
+TARGTYPE	Successful target
+
+TARGETID	T06020
+UNIPROID	FCGRN_HUMAN
+TARGNAME	Neonatal Fc receptor (FCGRT)
+TARGTYPE	Successful target
+
+TARGETID	T06042
+UNIPROID	NOUNIPROTAC
+TARGNAME	Sinus node I(f) channel (SA node IfC)
+TARGTYPE	Successful target
+
+TARGETID	T06093
+UNIPROID	ROCK2_HUMAN
+TARGNAME	Rho-associated protein kinase 2 (ROCK2)
+TARGTYPE	Successful target
+
+TARGETID	T06273
+UNIPROID	PARP1_HUMAN
+TARGNAME	Poly [ADP-ribose] polymerase 1 (PARP1)
+TARGTYPE	Successful target
+
+TARGETID	T06421
+UNIPROID	INAR2_HUMAN
+TARGNAME	Interferon alpha/beta receptor 2 (IFNAR2)
+TARGTYPE	Successful target
+
+TARGETID	T06438
+UNIPROID	NOUNIPROTAC
+TARGNAME	Oxidoreductase unspecific (OR)
+TARGTYPE	Successful target
+
+TARGETID	T06455
+UNIPROID	CP2A6_HUMAN
+TARGNAME	Cytochrome P450 2A6 (CYP2A6)
+TARGTYPE	Successful target
+
+TARGETID	T06542
+UNIPROID	IL17F_HUMAN
+TARGNAME	Cytokine ML-1 (IL17F)
+TARGTYPE	Successful target
+
+TARGETID	T06569
+UNIPROID	CAH6_HUMAN
+TARGNAME	Carbonic anhydrase VI (CA-VI)
+TARGTYPE	Successful target
+
+TARGETID	T06770
+UNIPROID	ENV_HV1H2
+TARGNAME	Human immunodeficiency virus Glycoprotein 41 (HIV gp41)
+TARGTYPE	Successful target
+
+TARGETID	T06841
+UNIPROID	IL23A_HUMAN
+TARGNAME	Interleukin-23 (IL23)
+TARGTYPE	Successful target
+
+TARGETID	T06955
+UNIPROID	CCR4_HUMAN
+TARGNAME	C-C chemokine receptor type 4 (CCR4)
+TARGTYPE	Successful target
+
+TARGETID	T07035
+UNIPROID	VIE2_HCMVA
+TARGNAME	Cytomegalovirus IE2 region messenger RNA (CMV IE2 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T07137
+UNIPROID	HPPD_HUMAN
+TARGNAME	Hydroxyphenylpyruvate dioxygenase (HPD)
+TARGTYPE	Successful target
+
+TARGETID	T07173
+UNIPROID	NTRK1_HUMAN
+TARGNAME	Tropomyosin-related kinase A (TrkA)
+TARGTYPE	Successful target
+
+TARGETID	T07289
+UNIPROID	ACKR1_HUMAN
+TARGNAME	Duffy antigen chemokine receptor (ACKR1)
+TARGTYPE	Successful target
+
+TARGETID	T07303
+UNIPROID	VGFR3_HUMAN
+TARGNAME	Vascular endothelial growth factor receptor 3 (FLT-4)
+TARGTYPE	Successful target
+
+TARGETID	T07341
+UNIPROID	NOUNIPROTAC
+TARGNAME	Dabigatran (Dabi)
+TARGTYPE	Successful target
+
+TARGETID	T07403
+UNIPROID	ITA4_HUMAN-ITB7_HUMAN
+TARGNAME	Integrin alpha-4/beta-7 (ITGA4/B7)
+TARGTYPE	Successful target
+
+TARGETID	T07485
+UNIPROID	FUS_HRSVA
+TARGNAME	Respiratory syncytial virus protein F (RSV F)
+TARGTYPE	Successful target
+
+TARGETID	T07569
+UNIPROID	CY1_HUMAN-CYB_HUMAN
+TARGNAME	Electron transport complex III (Complex III)
+TARGTYPE	Successful target
+
+TARGETID	T07663
+UNIPROID	PDE5A_HUMAN
+TARGNAME	Phosphodiesterase 5A (PDE5A)
+TARGTYPE	Successful target
+
+TARGETID	T07806
+UNIPROID	5HT1B_HUMAN
+TARGNAME	5-HT 1B receptor (HTR1B)
+TARGTYPE	Successful target
+
+TARGETID	T08306
+UNIPROID	CD79B_HUMAN
+TARGNAME	B-cell-specific glycoprotein B29 (CD79B)
+TARGTYPE	Successful target
+
+TARGETID	T08378
+UNIPROID	S23A2_HUMAN
+TARGNAME	Solute carrier family 23 member 2 (SLC23A2)
+TARGTYPE	Successful target
+
+TARGETID	T08391
+UNIPROID	JAK2_HUMAN
+TARGNAME	Janus kinase 2 (JAK-2)
+TARGTYPE	Successful target
+
+TARGETID	T08735
+UNIPROID	M2DH_ASPFU
+TARGNAME	Aspergillus Mannitol 2-dehydrogenase (Asperg M2DH)
+TARGTYPE	Successful target
+
+TARGETID	T08898
+UNIPROID	ACTHR_HUMAN
+TARGNAME	Melanocortin receptor 2 (MC2R)
+TARGTYPE	Successful target
+
+TARGETID	T08910
+UNIPROID	GBRG2_HUMAN
+TARGNAME	GABA(A) receptor gamma-2 (GABRG2)
+TARGTYPE	Successful target
+
+TARGETID	T08922
+UNIPROID	ACACB_HUMAN
+TARGNAME	Acetyl-CoA carboxylase 2 (ACACB)
+TARGTYPE	Successful target
+
+TARGETID	T09005
+UNIPROID	Q6NK15_CORDI
+TARGNAME	Corynebacterium Mutated CRM197 (Cory mTOX)
+TARGTYPE	Successful target
+
+TARGETID	T09130
+UNIPROID	NOUNIPROTAC
+TARGNAME	Muscarinic acetylcholine receptor (CHRM)
+TARGTYPE	Successful target
+
+TARGETID	T09423
+UNIPROID	KCJ10_HUMAN
+TARGNAME	Inward rectifier potassium channel Kir1.2 (KCNJ10)
+TARGTYPE	Successful target
+
+TARGETID	T09507
+UNIPROID	APOB_HUMAN
+TARGNAME	APOB messenger RNA (APOB mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T09538
+UNIPROID	PPBT_HUMAN
+TARGNAME	Alkaline phosphatase tissue-nonspecific (ALPL)
+TARGTYPE	Successful target
+
+TARGETID	T09826
+UNIPROID	TOP1_HUMAN
+TARGNAME	DNA topoisomerase I (TOP1)
+TARGTYPE	Successful target
+
+TARGETID	T09909
+UNIPROID	AGTR2_HUMAN
+TARGNAME	Angiotensin II receptor type-2 (AGTR2)
+TARGTYPE	Successful target
+
+TARGETID	T09960
+UNIPROID	CCR5_HUMAN
+TARGNAME	C-C chemokine receptor type 5 (CCR5)
+TARGTYPE	Successful target
+
+TARGETID	T10147
+UNIPROID	PTPRS_HUMAN
+TARGNAME	Protein-tyrosine phosphatase sigma (R-PTP-sigma)
+TARGTYPE	Successful target
+
+TARGETID	T10191
+UNIPROID	CD4_HUMAN
+TARGNAME	T-cell surface glycoprotein CD4 (CD4)
+TARGTYPE	Successful target
+
+TARGETID	T10362
+UNIPROID	NOUNIPROTAC
+TARGNAME	Enzyme unspecific (Enz)
+TARGTYPE	Successful target
+
+TARGETID	T10877
+UNIPROID	CD38_HUMAN
+TARGNAME	Cyclic ADP-ribose hydrolase 1 (CD38)
+TARGTYPE	Successful target
+
+TARGETID	T10897
+UNIPROID	ACOD_HUMAN
+TARGNAME	Acyl-CoA desaturase (SCD)
+TARGTYPE	Successful target
+
+TARGETID	T10965
+UNIPROID	LYAM3_HUMAN
+TARGNAME	P-selectin (SELP)
+TARGTYPE	Successful target
+
+TARGETID	T10988
+UNIPROID	ILRL2_HUMAN
+TARGNAME	IL-1 receptor-like 2 (IL1RL2)
+TARGTYPE	Successful target
+
+TARGETID	T11072
+UNIPROID	5HT1D_HUMAN
+TARGNAME	5-HT 1D receptor (HTR1D)
+TARGTYPE	Successful target
+
+TARGETID	T11211
+UNIPROID	ANDR_HUMAN
+TARGNAME	Androgen receptor (AR)
+TARGTYPE	Successful target
+
+TARGETID	T11288
+UNIPROID	MRP1_HUMAN
+TARGNAME	Multidrug resistance-associated protein 1 (ABCC1)
+TARGTYPE	Successful target
+
+TARGETID	T11448
+UNIPROID	ADA2A_HUMAN
+TARGNAME	Adrenergic receptor alpha-2A (ADRA2A)
+TARGTYPE	Successful target
+
+TARGETID	T11754
+UNIPROID	NOUNIPROTAC
+TARGNAME	Fatty acid amide hydrolase (FAAH)
+TARGTYPE	Successful target
+
+TARGETID	T11822
+UNIPROID	NOUNIPROTAC
+TARGNAME	Retinoic acid receptor (RAR)
+TARGTYPE	Successful target
+
+TARGETID	T11843
+UNIPROID	VKOR1_HUMAN
+TARGNAME	Vitamin K epoxide reductase complex 1 (VKORC1)
+TARGTYPE	Successful target
+
+TARGETID	T12187
+UNIPROID	DDL_MYCTU
+TARGNAME	Mycobacterium D-alanine-D-alanine ligase A (MycB ddl)
+TARGTYPE	Successful target
+
+TARGETID	T12427
+UNIPROID	NOUNIPROTAC
+TARGNAME	Sodium pump (NaP)
+TARGTYPE	Successful target
+
+TARGETID	T12475
+UNIPROID	GNRHR_HUMAN
+TARGNAME	Gonadotropin-releasing hormone receptor (GNRHR)
+TARGTYPE	Successful target
+
+TARGETID	T12499
+UNIPROID	LCK_HUMAN
+TARGNAME	LCK tyrosine protein kinase (LCK)
+TARGTYPE	Successful target
+
+TARGETID	T12808
+UNIPROID	KPCA_HUMAN
+TARGNAME	Protein kinase C alpha (PRKCA)
+TARGTYPE	Successful target
+
+TARGETID	T12966
+UNIPROID	TNNC1_HUMAN
+TARGNAME	Troponin C (TN-C)
+TARGTYPE	Successful target
+
+TARGETID	T13127
+UNIPROID	FNTA_HUMAN; FNTB_HUMAN
+TARGNAME	Farnesyl protein transferase (Ftase)
+TARGTYPE	Successful target
+
+TARGETID	T13201
+UNIPROID	CAH1_HUMAN
+TARGNAME	Carbonic anhydrase I (CA-I)
+TARGTYPE	Successful target
+
+TARGETID	T13251
+UNIPROID	IL12A_HUMAN
+TARGNAME	Interleukin-12 alpha (IL12A)
+TARGTYPE	Successful target
+
+TARGETID	T13259
+UNIPROID	SSDH_HUMAN
+TARGNAME	Succinate-semialdehyde dehydrogenase (ALDH5A1)
+TARGTYPE	Successful target
+
+TARGETID	T13260
+UNIPROID	CP19A_HUMAN
+TARGNAME	Aromatase (CYP19A1)
+TARGTYPE	Successful target
+
+TARGETID	T13491
+UNIPROID	S29A1_HUMAN
+TARGNAME	Solute carrier family 29 member 1 (SLC29A1)
+TARGTYPE	Successful target
+
+TARGETID	T13644
+UNIPROID	SSR3_HUMAN
+TARGNAME	Somatostatin receptor type 3 (SSTR3)
+TARGTYPE	Successful target
+
+TARGETID	T13712
+UNIPROID	NOUNIPROTAC
+TARGNAME	Cholesterol synthesis (Chole synth)
+TARGTYPE	Successful target
+
+TARGETID	T13726
+UNIPROID	RXRA_HUMAN
+TARGNAME	Retinoic acid receptor RXR-alpha (RXRA)
+TARGTYPE	Successful target
+
+TARGETID	T13852
+UNIPROID	S1PR1_HUMAN
+TARGNAME	Sphingosine-1-phosphate receptor 1 (S1PR1)
+TARGTYPE	Successful target
+
+TARGETID	T14065
+UNIPROID	ITB7_HUMAN
+TARGNAME	Integrin beta-7 (ITGB7)
+TARGTYPE	Successful target
+
+TARGETID	T14121
+UNIPROID	F13_VAR67
+TARGNAME	Virus Major envelope p37 (Viru p37)
+TARGTYPE	Successful target
+
+TARGETID	T14342
+UNIPROID	POL_HV1B1
+TARGNAME	Human immunodeficiency virus Reverse transcriptase (HIV RT)
+TARGTYPE	Successful target
+
+TARGETID	T14541
+UNIPROID	TOXB_CLODI
+TARGNAME	Clostridium difficile Toxin B (CD toxB)
+TARGTYPE	Successful target
+
+TARGETID	T14558
+UNIPROID	TRYB1_HUMAN
+TARGNAME	Tryptase alpha/beta-1 (Tryptase)
+TARGTYPE	Successful target
+
+TARGETID	T14582
+UNIPROID	ALR_MYCSM
+TARGNAME	Mycobacterium Biosynthetic alanine racemase (MycB alr)
+TARGTYPE	Successful target
+
+TARGETID	T14597
+UNIPROID	ERBB2_HUMAN
+TARGNAME	Erbb2 tyrosine kinase receptor (HER2)
+TARGTYPE	Successful target
+
+TARGETID	T14602
+UNIPROID	FA8_HUMAN
+TARGNAME	Coagulation factor VIII (F8)
+TARGTYPE	Successful target
+
+TARGETID	T14853
+UNIPROID	FGF23_HUMAN
+TARGNAME	Fibroblast growth factor-23 (FGF23)
+TARGTYPE	Successful target
+
+TARGETID	T14908
+UNIPROID	CEGT_HUMAN
+TARGNAME	Ceramide glucosyltransferase (UGCG)
+TARGTYPE	Successful target
+
+TARGETID	T15000
+UNIPROID	CTLA4_HUMAN
+TARGNAME	Cytotoxic T-lymphocyte protein 4 (CTLA-4)
+TARGTYPE	Successful target
+
+TARGETID	T15023
+UNIPROID	NRP1_HUMAN
+TARGNAME	Neuropilin-1 (NRP1)
+TARGTYPE	Successful target
+
+TARGETID	T15117
+UNIPROID	NOUNIPROTAC
+TARGNAME	Adrenergic receptor (ADR)
+TARGTYPE	Successful target
+
+TARGETID	T15439
+UNIPROID	C5AR1_HUMAN
+TARGNAME	C5a anaphylatoxin chemotactic receptor (C5AR1)
+TARGTYPE	Successful target
+
+TARGETID	T15569
+UNIPROID	MUTA_HUMAN
+TARGNAME	Methylmalonyl-CoA mutase (MMUT)
+TARGTYPE	Successful target
+
+TARGETID	T15571
+UNIPROID	5HT5A_HUMAN
+TARGNAME	5-HT 5A receptor (HTR5A)
+TARGTYPE	Successful target
+
+TARGETID	T16047
+UNIPROID	Q25634_ONCVO
+TARGNAME	Onchocerca Glutamate-gated chloride channel (Onchoc GluCl)
+TARGTYPE	Successful target
+
+TARGETID	T16156
+UNIPROID	TPOR_HUMAN
+TARGNAME	Thrombopoietin receptor (MPL)
+TARGTYPE	Successful target
+
+TARGETID	T16422
+UNIPROID	NOUNIPROTAC
+TARGNAME	Multidrug resistance protein (MDR)
+TARGTYPE	Successful target
+
+TARGETID	T16514
+UNIPROID	FAS_HUMAN
+TARGNAME	Fatty acid synthase (FASN)
+TARGTYPE	Successful target
+
+TARGETID	T16538
+UNIPROID	EGFR_HUMAN
+TARGNAME	EGFR T790M mutant (EGFR T790M)
+TARGTYPE	Successful target
+
+TARGETID	T16633
+UNIPROID	SSR1_HUMAN
+TARGNAME	Somatostatin receptor type 1 (SSTR1)
+TARGTYPE	Successful target
+
+TARGETID	T16688
+UNIPROID	DGAT1_HUMAN
+TARGNAME	Diacylglycerol acyltransferase 1 (DGAT1)
+TARGTYPE	Successful target
+
+TARGETID	T16761
+UNIPROID	FOL1_PNECA
+TARGNAME	Pneumocystis carinii Dihydropteroate synthase (PC DHPS)
+TARGTYPE	Successful target
+
+TARGETID	T16792
+UNIPROID	IOD1_HUMAN
+TARGNAME	Iodothyronine deiodinase type I (DIO1)
+TARGTYPE	Successful target
+
+TARGETID	T16987
+UNIPROID	CAH12_HUMAN
+TARGNAME	Carbonic anhydrase XII (CA-XII)
+TARGTYPE	Successful target
+
+TARGETID	T17003
+UNIPROID	NOUNIPROTAC
+TARGNAME	DNA-directed RNA polymerase (RNAP)
+TARGTYPE	Successful target
+
+TARGETID	T17163
+UNIPROID	LEPR_HUMAN
+TARGNAME	Leptin receptor (LEPR)
+TARGTYPE	Successful target
+
+TARGETID	T17234
+UNIPROID	UL97_HCMVA
+TARGNAME	Cytomegalovirus Ganciclovir kinase (CMV UL97)
+TARGTYPE	Successful target
+
+TARGETID	T17345
+UNIPROID	DYR_HUMAN
+TARGNAME	Dihydrofolate reductase (DHFR)
+TARGTYPE	Successful target
+
+TARGETID	T17448
+UNIPROID	HNMT_HUMAN
+TARGNAME	Histamine N-methyltransferase (HNMT)
+TARGTYPE	Successful target
+
+TARGETID	T17569
+UNIPROID	KCNA5_HUMAN
+TARGNAME	Voltage-gated potassium channel Kv1.5 (KCNA5)
+TARGTYPE	Successful target
+
+TARGETID	T17629
+UNIPROID	TACD2_HUMAN
+TARGNAME	Tumor associated calcium signal transducer 2 (TACSTD2)
+TARGTYPE	Successful target
+
+TARGETID	T17687
+UNIPROID	NOUNIPROTAC
+TARGNAME	Fibroblast growth factor receptor (FGFR)
+TARGTYPE	Successful target
+
+TARGETID	T17758
+UNIPROID	UROK_HUMAN
+TARGNAME	Urokinase-type plasminogen activator (PLAU)
+TARGTYPE	Successful target
+
+TARGETID	T17980
+UNIPROID	FYN_HUMAN
+TARGNAME	Fyn tyrosine protein kinase (FYN)
+TARGTYPE	Successful target
+
+TARGETID	T18477
+UNIPROID	HS90A_HUMAN
+TARGNAME	Heat shock protein 90 alpha (HSP90A)
+TARGTYPE	Successful target
+
+TARGETID	T18632
+UNIPROID	NOUNIPROTAC
+TARGNAME	Cholinergic receptor unspecific (CHR)
+TARGTYPE	Successful target
+
+TARGETID	T18950
+UNIPROID	GON1_HUMAN
+TARGNAME	Leutinizing-hormone-releasing hormone (GNRH1)
+TARGTYPE	Successful target
+
+TARGETID	T19229
+UNIPROID	PCFT_HUMAN
+TARGNAME	Proton-coupled folate transporter (SLC46A1)
+TARGTYPE	Successful target
+
+TARGETID	T19244
+UNIPROID	CP2C9_HUMAN
+TARGNAME	S-mephenytoin 4-hydroxylase (CYP2C9)
+TARGTYPE	Successful target
+
+TARGETID	T19414
+UNIPROID	FIBA_HUMAN; FIBB_HUMAN
+TARGNAME	Fibrin (FG)
+TARGTYPE	Successful target
+
+TARGETID	T19433
+UNIPROID	HPGDS_HUMAN
+TARGNAME	Glutathione-dependent PGD synthase (HPGDS)
+TARGTYPE	Successful target
+
+TARGETID	T19615
+UNIPROID	CSF3_HUMAN
+TARGNAME	Granulocyte colony-stimulating factor (CSF3)
+TARGTYPE	Successful target
+
+TARGETID	T19693
+UNIPROID	GUC2D_HUMAN
+TARGNAME	Soluble guanylyl cyclase (GUCY2D)
+TARGTYPE	Successful target
+
+TARGETID	T20089
+UNIPROID	NOUNIPROTAC
+TARGNAME	Plasmodium Deoxyribonucleic acid (Malaria DNA)
+TARGTYPE	Successful target
+
+TARGETID	T20178
+UNIPROID	TNFA_HUMAN
+TARGNAME	Tumor necrosis factor (TNF)
+TARGTYPE	Successful target
+
+TARGETID	T20251
+UNIPROID	KCNH2_HUMAN
+TARGNAME	Voltage-gated potassium channel Kv11.1 (KCNH2)
+TARGTYPE	Successful target
+
+TARGETID	T20297
+UNIPROID	NOUNIPROTAC
+TARGNAME	Serine protease unspecific (SP)
+TARGTYPE	Successful target
+
+TARGETID	T20333
+UNIPROID	CSF1R_HUMAN
+TARGNAME	Macrophage colony-stimulating factor 1 receptor (CSF1R)
+TARGTYPE	Successful target
+
+TARGETID	T20401
+UNIPROID	CAH2_HUMAN
+TARGNAME	Carbonic anhydrase II (CA-II)
+TARGTYPE	Successful target
+
+TARGETID	T20514
+UNIPROID	HEM2_HUMAN
+TARGNAME	Delta-aminolevulinic acid dehydratase (ALAD)
+TARGTYPE	Successful target
+
+TARGETID	T20563
+UNIPROID	EGFR_HUMAN
+TARGNAME	EGFR Exon20ins mutant (EGFR Exon20ins)
+TARGTYPE	Successful target
+
+TARGETID	T20709
+UNIPROID	ACM4_HUMAN
+TARGNAME	Muscarinic acetylcholine receptor M4 (CHRM4)
+TARGTYPE	Successful target
+
+TARGETID	T20710
+UNIPROID	NOUNIPROTAC
+TARGNAME	Interleukin 2 receptor (IL2R)
+TARGTYPE	Successful target
+
+TARGETID	T20761
+UNIPROID	VEGFA_HUMAN
+TARGNAME	Vascular endothelial growth factor A (VEGFA)
+TARGTYPE	Successful target
+
+TARGETID	T20796
+UNIPROID	NOUNIPROTAC
+TARGNAME	Reactive oxygen species (ROS)
+TARGTYPE	Successful target
+
+TARGETID	T20808
+UNIPROID	IDHC_HUMAN; IDHP_HUMAN; IDH3A_HUMAN; IDH3B_HUMAN; IDH3G_HUMAN
+TARGNAME	Isocitrate dehydrogenase (IDH)
+TARGTYPE	Successful target
+
+TARGETID	T21112
+UNIPROID	NOUNIPROTAC
+TARGNAME	DNA replication (DNA repli)
+TARGTYPE	Successful target
+
+TARGETID	T21123
+UNIPROID	EPAS1_HUMAN
+TARGNAME	Hypoxia-inducible factor 2 alpha (HIF-2A)
+TARGTYPE	Successful target
+
+TARGETID	T21334
+UNIPROID	TNF11_HUMAN
+TARGNAME	Osteoclast differentiation factor (ODF)
+TARGTYPE	Successful target
+
+TARGETID	T21447
+UNIPROID	NOUNIPROTAC
+TARGNAME	Glutamine receptor (GluR)
+TARGTYPE	Successful target
+
+TARGETID	T21678
+UNIPROID	AGAL_HUMAN
+TARGNAME	Alpha-galactosidase A (GLA)
+TARGTYPE	Successful target
+
+TARGETID	T21890
+UNIPROID	CEAM3_HUMAN
+TARGNAME	Carcinoembryonic antigen CGM1 (CD66d)
+TARGTYPE	Successful target
+
+TARGETID	T21945
+UNIPROID	SC6A2_HUMAN
+TARGNAME	Norepinephrine transporter (NET)
+TARGTYPE	Successful target
+
+TARGETID	T21960
+UNIPROID	ANGP2_HUMAN
+TARGNAME	Angiopoietin-2 (ANGPT2)
+TARGTYPE	Successful target
+
+TARGETID	T22095
+UNIPROID	IL17_HUMAN
+TARGNAME	Interleukin-17 (IL17)
+TARGTYPE	Successful target
+
+TARGETID	T22118
+UNIPROID	DRD1_HUMAN
+TARGNAME	Dopamine D1 receptor (D1R)
+TARGTYPE	Successful target
+
+TARGETID	T22212
+UNIPROID	FCG2A_HUMAN
+TARGNAME	Immunoglobulin gamma Fc receptor IIA (FCGR2A)
+TARGTYPE	Successful target
+
+TARGETID	T22285
+UNIPROID	NMDE1_HUMAN
+TARGNAME	Glutamate receptor ionotropic NMDA 2A (NMDAR2A)
+TARGTYPE	Successful target
+
+TARGETID	T22348
+UNIPROID	GYRA_STAAU; GYRB_STAAU
+TARGNAME	Bacterial DNA gyrase (Bact gyrase)
+TARGTYPE	Successful target
+
+TARGETID	T22658
+UNIPROID	IL8_HUMAN
+TARGNAME	Interleukin-8 (IL8)
+TARGTYPE	Successful target
+
+TARGETID	T22839
+UNIPROID	CELA1_HUMAN
+TARGNAME	Pancreatic elastase 1 (CELA1)
+TARGTYPE	Successful target
+
+TARGETID	T22939
+UNIPROID	PRGR_HUMAN
+TARGNAME	Progesterone receptor (PGR)
+TARGTYPE	Successful target
+
+TARGETID	T23003
+UNIPROID	NOUNIPROTAC
+TARGNAME	MAPK/ERK kinase kinase (MAP3K)
+TARGTYPE	Successful target
+
+TARGETID	T23145
+UNIPROID	CP11A_HUMAN
+TARGNAME	Cholesterol desmolase (CYP11A1)
+TARGTYPE	Successful target
+
+TARGETID	T23172
+UNIPROID	JAK3_HUMAN
+TARGNAME	Janus kinase 3 (JAK-3)
+TARGTYPE	Successful target
+
+TARGETID	T23292
+UNIPROID	GALNS_HUMAN
+TARGNAME	N-acetylgalactosamine 6 sulfatase (GALNS)
+TARGTYPE	Successful target
+
+TARGETID	T23343
+UNIPROID	POL_HV1B1
+TARGNAME	Human immunodeficiency virus Capsid p24 (HIV p24)
+TARGTYPE	Successful target
+
+TARGETID	T23348
+UNIPROID	VWF_HUMAN
+TARGNAME	von Willebrand factor (VWF)
+TARGTYPE	Successful target
+
+TARGETID	T23389
+UNIPROID	TTHY_HUMAN
+TARGNAME	Transthyretin messenger RNA (TTR mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T23459
+UNIPROID	VGP3_EBVP3
+TARGNAME	Epstein-Barr virus Envelope glycoprotein gp340 (EBV BLLF1)
+TARGTYPE	Successful target
+
+TARGETID	T23499
+UNIPROID	EDNRA_HUMAN
+TARGNAME	Endothelin A receptor (EDNRA)
+TARGTYPE	Successful target
+
+TARGETID	T23519
+UNIPROID	GPC5D_HUMAN
+TARGNAME	G-protein coupled receptor C 5D (GPRC5D)
+TARGTYPE	Successful target
+
+TARGETID	T23547
+UNIPROID	NOUNIPROTAC
+TARGNAME	Opioid receptor (OPR)
+TARGTYPE	Successful target
+
+TARGETID	T23666
+UNIPROID	AHR_HUMAN
+TARGNAME	Aryl hydrocarbon receptor (AHR)
+TARGTYPE	Successful target
+
+TARGETID	T23714
+UNIPROID	BKRB2_HUMAN
+TARGNAME	B2 bradykinin receptor (BDKRB2)
+TARGTYPE	Successful target
+
+TARGETID	T23761
+UNIPROID	NOUNIPROTAC
+TARGNAME	Sarcoplasmic/endoplasmic reticulum calcium ATPase (ATP2A)
+TARGTYPE	Successful target
+
+TARGETID	T24211
+UNIPROID	IC1_HUMAN
+TARGNAME	C1 esterase inhibitor (SERPING1)
+TARGTYPE	Successful target
+
+TARGETID	T24373
+UNIPROID	LICH_HUMAN
+TARGNAME	Lysosomal acid lipase (LIPA)
+TARGTYPE	Successful target
+
+TARGETID	T24634
+UNIPROID	MURA_ECOLI
+TARGNAME	Bacterial UDP-N-acetylglucosamine carboxyvinyltransferase (Bact murA)
+TARGTYPE	Successful target
+
+TARGETID	T24836
+UNIPROID	PROC_HUMAN
+TARGNAME	Vitamin K-dependent protein C (PROC)
+TARGTYPE	Successful target
+
+TARGETID	T24982
+UNIPROID	NTCP2_HUMAN
+TARGNAME	Ileal sodium/bile acid cotransporter (SLC10A2)
+TARGTYPE	Successful target
+
+TARGETID	T24983
+UNIPROID	DRD4_HUMAN
+TARGNAME	Dopamine D4 receptor (D4R)
+TARGTYPE	Successful target
+
+TARGETID	T25005
+UNIPROID	BTK_HUMAN
+TARGNAME	Tyrosine-protein kinase BTK (ATK)
+TARGTYPE	Successful target
+
+TARGETID	T25163
+UNIPROID	CPSM_HUMAN
+TARGNAME	Carbamoyl-phosphate synthetase I (CPS1)
+TARGTYPE	Successful target
+
+TARGETID	T25265
+UNIPROID	EZH2_HUMAN
+TARGNAME	Enhancer of zeste homolog 2 (EZH2)
+TARGTYPE	Successful target
+
+TARGETID	T25464
+UNIPROID	PP2BA_HUMAN
+TARGNAME	Calcineurin (PPP3CA)
+TARGTYPE	Successful target
+
+TARGETID	T25663
+UNIPROID	NOUNIPROTAC
+TARGNAME	Adenosine receptor (ADOR)
+TARGTYPE	Successful target
+
+TARGETID	T25847
+UNIPROID	PPIB_HUMAN
+TARGNAME	Rotamase B (PPIB)
+TARGTYPE	Successful target
+
+TARGETID	T26203
+UNIPROID	ICAM1_HUMAN
+TARGNAME	Intercellular adhesion molecule ICAM-1 (ICAM1)
+TARGTYPE	Successful target
+
+TARGETID	T26240
+UNIPROID	NOUNIPROTAC
+TARGNAME	Estramustine binding protein (EMBP)
+TARGTYPE	Successful target
+
+TARGETID	T26368
+UNIPROID	GBRA5_HUMAN
+TARGNAME	GABA(A) receptor alpha-5 (GABRA5)
+TARGTYPE	Successful target
+
+TARGETID	T26623
+UNIPROID	ALDR_HUMAN
+TARGNAME	Aldose reductase (AKR1B1)
+TARGTYPE	Successful target
+
+TARGETID	T26851
+UNIPROID	CO3_HUMAN
+TARGNAME	Complement C3 (CO3)
+TARGTYPE	Successful target
+
+TARGETID	T27021
+UNIPROID	NOUNIPROTAC
+TARGNAME	Transferase unspecific (TF)
+TARGTYPE	Successful target
+
+TARGETID	T27265
+UNIPROID	S5A1_HUMAN; S5A2_HUMAN; PORED_HUMAN
+TARGNAME	Oxo-5-alpha-steroid 4-dehydrogenase (SRD5A)
+TARGTYPE	Successful target
+
+TARGETID	T27376
+UNIPROID	GBRD_HUMAN
+TARGNAME	GABA(A) receptor delta (GABRD)
+TARGTYPE	Successful target
+
+TARGETID	T27445
+UNIPROID	SYI_ECOLI
+TARGNAME	Bacterial Isoleucyl-tRNA synthetase (Bact ileS)
+TARGTYPE	Successful target
+
+TARGETID	T27495
+UNIPROID	F13_VAR67
+TARGNAME	Variola virus Envelope phospholipase F13 (VARV p37)
+TARGTYPE	Successful target
+
+TARGETID	T27602
+UNIPROID	TRY1_HUMAN
+TARGNAME	Cationic trypsinogen (PRSS1)
+TARGTYPE	Successful target
+
+TARGETID	T27812
+UNIPROID	SC6A4_HUMAN
+TARGNAME	Serotonin transporter (SERT)
+TARGTYPE	Successful target
+
+TARGETID	T27999
+UNIPROID	PAG_BACAN
+TARGNAME	Bacterial Protective antigen (Bact pagA)
+TARGTYPE	Successful target
+
+TARGETID	T28076
+UNIPROID	FGF4_HUMAN
+TARGNAME	Fibroblast growth factor-4 (FGF4)
+TARGTYPE	Successful target
+
+TARGETID	T28265
+UNIPROID	A1AT_HUMAN
+TARGNAME	Alpha-1-antitrypsin (SERPINA1)
+TARGTYPE	Successful target
+
+TARGETID	T28658
+UNIPROID	NOUNIPROTAC
+TARGNAME	Plasmodium 80S ribosome (Malaria 80S)
+TARGTYPE	Successful target
+
+TARGETID	T28661
+UNIPROID	TBB2A_HUMAN
+TARGNAME	Tubulin beta-2 chain (TUBB2)
+TARGTYPE	Successful target
+
+TARGETID	T28692
+UNIPROID	LIPL_HUMAN
+TARGNAME	Lipoprotein lipase (LPL)
+TARGTYPE	Successful target
+
+TARGETID	T28722
+UNIPROID	GBRG3_HUMAN
+TARGNAME	GABA(A) receptor gamma-3 (GABRG3)
+TARGTYPE	Successful target
+
+TARGETID	T28848
+UNIPROID	NOUNIPROTAC
+TARGNAME	Virus Deoxyribonucleic acid (Viru DNA)
+TARGTYPE	Successful target
+
+TARGETID	T28869
+UNIPROID	URE1_KLEAE
+TARGNAME	Bacterial Urease (Bact ureC)
+TARGTYPE	Successful target
+
+TARGETID	T28893
+UNIPROID	ACM1_HUMAN
+TARGNAME	Muscarinic acetylcholine receptor M1 (CHRM1)
+TARGTYPE	Successful target
+
+TARGETID	T28925
+UNIPROID	NOUNIPROTAC
+TARGNAME	Inosine-5'-monophosphate dehydrogenase (IMPDH)
+TARGTYPE	Successful target
+
+TARGETID	T28993
+UNIPROID	IDS_HUMAN
+TARGNAME	Iduronate 2-sulfatase (IDS)
+TARGTYPE	Successful target
+
+TARGETID	T29024
+UNIPROID	SODC_HUMAN
+TARGNAME	SOD1 messenger RNA (SOD1 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T29064
+UNIPROID	NOUNIPROTAC
+TARGNAME	Angiogenesis/myeloma cell growth (AMCG)
+TARGTYPE	Successful target
+
+TARGETID	T29130
+UNIPROID	STAT3_HUMAN
+TARGNAME	Signal transducer and activator of transcription 3 (STAT3)
+TARGTYPE	Successful target
+
+TARGETID	T29143
+UNIPROID	IL13_HUMAN
+TARGNAME	Interleukin-13 (IL13)
+TARGTYPE	Successful target
+
+TARGETID	T29303
+UNIPROID	NOUNIPROTAC
+TARGNAME	Sodium channel unspecific (NaC)
+TARGTYPE	Successful target
+
+TARGETID	T29500
+UNIPROID	ADA1B_HUMAN
+TARGNAME	Adrenergic receptor alpha-1B (ADRA1B)
+TARGTYPE	Successful target
+
+TARGETID	T29683
+UNIPROID	NK3R_HUMAN
+TARGNAME	Neuromedin-K receptor (TACR3)
+TARGTYPE	Successful target
+
+TARGETID	T29999
+UNIPROID	NOUNIPROTAC
+TARGNAME	Vasopressin V1 receptor (V1R)
+TARGTYPE	Successful target
+
+TARGETID	T30014
+UNIPROID	NOUNIPROTAC
+TARGNAME	Immunoglobulin unspecific (Ig)
+TARGTYPE	Successful target
+
+TARGETID	T30028
+UNIPROID	VAMP1_HUMAN; VAMP2_HUMAN
+TARGNAME	Vesicle-associated membrane protein (VAMP)
+TARGTYPE	Successful target
+
+TARGETID	T30040
+UNIPROID	VEGFB_HUMAN
+TARGNAME	Vascular endothelial growth factor B (VEGFB)
+TARGTYPE	Successful target
+
+TARGETID	T30081
+UNIPROID	KITH_HUMAN
+TARGNAME	Thymidine kinase 1 (TK1)
+TARGTYPE	Successful target
+
+TARGETID	T30082
+UNIPROID	ACES_HUMAN
+TARGNAME	Acetylcholinesterase (AChE)
+TARGTYPE	Successful target
+
+TARGETID	T30085
+UNIPROID	SC5A2_HUMAN
+TARGNAME	Sodium/glucose cotransporter 2 (SGLT2)
+TARGTYPE	Successful target
+
+TARGETID	T30284
+UNIPROID	INGR2_HUMAN
+TARGNAME	Interferon gamma receptor (IFNGR2)
+TARGTYPE	Successful target
+
+TARGETID	T30372
+UNIPROID	CYSP_TRYCR
+TARGNAME	Trypanosoma Cruzipain (Trypano CYSP)
+TARGTYPE	Successful target
+
+TARGETID	T30374
+UNIPROID	NOUNIPROTAC
+TARGNAME	Gamma-aminobutyric acid uptake (GABAU)
+TARGTYPE	Successful target
+
+TARGETID	T30418
+UNIPROID	NOUNIPROTAC
+TARGNAME	DNA synthesis (DNA synth)
+TARGTYPE	Successful target
+
+TARGETID	T30520
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial RNA polymerase switch region (Bact RNAP-SR)
+TARGTYPE	Successful target
+
+TARGETID	T30578
+UNIPROID	EMBC_MYCTU
+TARGNAME	Mycobacterium Arabinosyltransferase C (MycB embC)
+TARGTYPE	Successful target
+
+TARGETID	T30653
+UNIPROID	PCAT1_HUMAN; PCAT2_HUMAN
+TARGNAME	Acetyl-CoA:lyso-PAF acetyltransferase (PCAT)
+TARGTYPE	Successful target
+
+TARGETID	T30687
+UNIPROID	GCR_HUMAN
+TARGNAME	Glucocorticoid receptor messenger RNA (GCR mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T30938
+UNIPROID	RPOA_MYCTU; RPOB_MYCTU; RPOC_MYCTU; RPOZ_MYCTU
+TARGNAME	Mycobacterium RNA polymerase (MycB RNAP)
+TARGTYPE	Successful target
+
+TARGETID	T30956
+UNIPROID	PAG_BACAN
+TARGNAME	Bacillus anthracis Protective antigen (Anthrax PA)
+TARGTYPE	Successful target
+
+TARGETID	T30985
+UNIPROID	HRH2_HUMAN
+TARGNAME	Histamine H2 receptor (H2R)
+TARGTYPE	Successful target
+
+TARGETID	T31133
+UNIPROID	NOUNIPROTAC
+TARGNAME	Potassium (K)
+TARGTYPE	Successful target
+
+TARGETID	T31204
+UNIPROID	5HT2B_HUMAN
+TARGNAME	5-HT 2B receptor (HTR2B)
+TARGTYPE	Successful target
+
+TARGETID	T31230
+UNIPROID	FRDA_HELPY
+TARGNAME	Bacterial Fumarate reductase flavoprotein (Bact frdA)
+TARGTYPE	Successful target
+
+TARGETID	T31309
+UNIPROID	BCL2_HUMAN
+TARGNAME	Apoptosis regulator Bcl-2 (BCL-2)
+TARGTYPE	Successful target
+
+TARGETID	T31391
+UNIPROID	DPP4_HUMAN
+TARGNAME	Dipeptidyl peptidase 4 (DPP-4)
+TARGTYPE	Successful target
+
+TARGETID	T31424
+UNIPROID	NOUNIPROTAC
+TARGNAME	Adrenergic receptor Alpha-2 (ADRA2)
+TARGTYPE	Successful target
+
+TARGETID	T31479
+UNIPROID	PA21B_HUMAN
+TARGNAME	Phospholipase A2 (PLA2G1B)
+TARGTYPE	Successful target
+
+TARGETID	T31514
+UNIPROID	LYAG_HUMAN
+TARGNAME	Lysosomal alpha-glucosidase (GAA)
+TARGTYPE	Successful target
+
+TARGETID	T31595
+UNIPROID	NRAM_I33A0
+TARGNAME	Influenza Neuraminidase (Influ NA)
+TARGTYPE	Successful target
+
+TARGETID	T31621
+UNIPROID	FGF2_HUMAN
+TARGNAME	Fibroblast growth factor-2 (FGF2)
+TARGTYPE	Successful target
+
+TARGETID	T31751
+UNIPROID	DXR_PLAFX
+TARGNAME	Plasmodium DOXP reductoisomerase (Malaria DXR)
+TARGTYPE	Successful target
+
+TARGETID	T31946
+UNIPROID	NOUNIPROTAC
+TARGNAME	Vascular endothelial growth factor receptor (VEGFR)
+TARGTYPE	Successful target
+
+TARGETID	T31992
+UNIPROID	CAH14_HUMAN
+TARGNAME	Carbonic anhydrase XIV (CA-XIV)
+TARGTYPE	Successful target
+
+TARGETID	T32060
+UNIPROID	5HT2A_HUMAN
+TARGNAME	5-HT 2A receptor (HTR2A)
+TARGTYPE	Successful target
+
+TARGETID	T32247
+UNIPROID	CALCR_HUMAN
+TARGNAME	Calcitonin receptor (CALCR)
+TARGTYPE	Successful target
+
+TARGETID	T32262
+UNIPROID	CALRL_HUMAN
+TARGNAME	Calcitonin gene-related peptide receptor (CGRPR)
+TARGTYPE	Successful target
+
+TARGETID	T32369
+UNIPROID	PA_I34A1
+TARGNAME	Influenza Polymerase acidic endonuclease (Influ PA)
+TARGTYPE	Successful target
+
+TARGETID	T32387
+UNIPROID	NOUNIPROTAC
+TARGNAME	Endothelium of blood vessels (Endothelium)
+TARGTYPE	Successful target
+
+TARGETID	T32578
+UNIPROID	IL6_HUMAN
+TARGNAME	Interleukin-6 (IL6)
+TARGTYPE	Successful target
+
+TARGETID	T32790
+UNIPROID	LDHA_HUMAN
+TARGNAME	LDHA messenger RNA (LDHA mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T32862
+UNIPROID	NOUNIPROTAC
+TARGNAME	Fungal Cell membrane ergosterol (Fung CME)
+TARGTYPE	Successful target
+
+TARGETID	T33193
+UNIPROID	FTSI_ECOLI
+TARGNAME	Bacterial Penicillin binding protein 3 (Bact mrcA)
+TARGTYPE	Successful target
+
+TARGETID	T33425
+UNIPROID	EGF_HUMAN
+TARGNAME	Epidermal growth factor (EGF)
+TARGTYPE	Successful target
+
+TARGETID	T33489
+UNIPROID	STS_HUMAN
+TARGNAME	Steryl-sulfatase (STS)
+TARGTYPE	Successful target
+
+TARGETID	T33584
+UNIPROID	GRIA1_HUMAN
+TARGNAME	Glutamate receptor AMPA 1 (GRIA1)
+TARGTYPE	Successful target
+
+TARGETID	T33754
+UNIPROID	NOUNIPROTAC
+TARGNAME	Phosphodiesterase 3 (PDE3)
+TARGTYPE	Successful target
+
+TARGETID	T33765
+UNIPROID	MCL1_HUMAN
+TARGNAME	Mcl-1 messenger RNA (MCL-1 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T33846
+UNIPROID	I17RA_HUMAN; I17RB_HUMAN; I17RC_HUMAN; I17RD_HUMAN; I17RE_HUMAN
+TARGNAME	Interleukin 17 receptor (IL17R)
+TARGTYPE	Successful target
+
+TARGETID	T33901
+UNIPROID	NPCL1_HUMAN
+TARGNAME	Niemann-Pick C1-like protein 1 (NPC1L1)
+TARGTYPE	Successful target
+
+TARGETID	T34123
+UNIPROID	SCNBA_HUMAN
+TARGNAME	Voltage-gated sodium channel alpha Nav1.9 (SCN11A)
+TARGTYPE	Successful target
+
+TARGETID	T34234
+UNIPROID	VDR_HUMAN
+TARGNAME	Vitamin D3 receptor (VDR)
+TARGTYPE	Successful target
+
+TARGETID	T34239
+UNIPROID	PPOX_HUMAN
+TARGNAME	Protoporphyrinogen oxidase (PPOX)
+TARGTYPE	Successful target
+
+TARGETID	T34287
+UNIPROID	MPI_CANAL
+TARGNAME	Candida Mannose-6-phosphate isomerase (Candi PMI1)
+TARGTYPE	Successful target
+
+TARGETID	T34318
+UNIPROID	CAMP_HUMAN
+TARGNAME	Cathelicidin antimicrobial peptide (CAMP)
+TARGTYPE	Successful target
+
+TARGETID	T34429
+UNIPROID	ACHA7_HUMAN
+TARGNAME	Neuronal acetylcholine receptor alpha-7 (CHRNA7)
+TARGTYPE	Successful target
+
+TARGETID	T34743
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial Penicillin binding protein (Bact PBP)
+TARGTYPE	Successful target
+
+TARGETID	T34772
+UNIPROID	NOUNIPROTAC
+TARGNAME	Endopeptidase (ENP)
+TARGTYPE	Successful target
+
+TARGETID	T34843
+UNIPROID	GLP2R_HUMAN
+TARGNAME	Glucagon-like peptide 2 receptor (GLP2R)
+TARGTYPE	Successful target
+
+TARGETID	T34867
+UNIPROID	NOUNIPROTAC
+TARGNAME	Poly [ADP-ribose] polymerase (PARP)
+TARGTYPE	Successful target
+
+TARGETID	T34949
+UNIPROID	CAC1A_HUMAN
+TARGNAME	Voltage-gated calcium channel alpha Cav2.1 (CACNA1A)
+TARGTYPE	Successful target
+
+TARGETID	T35445
+UNIPROID	SMAD3_HUMAN
+TARGNAME	Mothers against decapentaplegic homolog 3 (SMAD3)
+TARGTYPE	Successful target
+
+TARGETID	T35465
+UNIPROID	S19A1_HUMAN
+TARGNAME	Solute carrier family 19 member 1 (SLC19A1)
+TARGTYPE	Successful target
+
+TARGETID	T35591
+UNIPROID	NECT4_HUMAN
+TARGNAME	Nectin cell adhesion molecule 4 (NECTIN4)
+TARGTYPE	Successful target
+
+TARGETID	T35640
+UNIPROID	ITAL_HUMAN
+TARGNAME	Integrin alpha-L (ITGAL)
+TARGTYPE	Successful target
+
+TARGETID	T35842
+UNIPROID	MSHR_HUMAN
+TARGNAME	Melanocortin receptor 1 (MC1R)
+TARGTYPE	Successful target
+
+TARGETID	T36053
+UNIPROID	SO4C1_HUMAN
+TARGNAME	Organic anion transporter M1 (SLCO4C1)
+TARGTYPE	Successful target
+
+TARGETID	T36075
+UNIPROID	GLP1R_HUMAN
+TARGNAME	Glucagon-like peptide 1 receptor (GLP1R)
+TARGTYPE	Successful target
+
+TARGETID	T36483
+UNIPROID	PAR1_HUMAN
+TARGNAME	Proteinase activated receptor 1 (F2R)
+TARGTYPE	Successful target
+
+TARGETID	T37046
+UNIPROID	BIEA_HUMAN
+TARGNAME	Biliverdin reductase A (BLVRA)
+TARGTYPE	Successful target
+
+TARGETID	T37382
+UNIPROID	S23A1_HUMAN
+TARGNAME	Solute carrier family 23 member 1 (SLC23A1)
+TARGTYPE	Successful target
+
+TARGETID	T37510
+UNIPROID	FA5_HUMAN
+TARGNAME	Coagulation factor Va (F5)
+TARGTYPE	Successful target
+
+TARGETID	T37539
+UNIPROID	CD22_HUMAN
+TARGNAME	B-cell receptor CD22 (CD22)
+TARGTYPE	Successful target
+
+TARGETID	T37693
+UNIPROID	CNR2_HUMAN
+TARGNAME	Cannabinoid receptor 2 (CB2)
+TARGTYPE	Successful target
+
+TARGETID	T37847
+UNIPROID	DPOL_HHV11
+TARGNAME	Herpes simplex virus DNA polymerase UL30 (HSV UL30)
+TARGTYPE	Successful target
+
+TARGETID	T38052
+UNIPROID	PNO_CRYPV
+TARGNAME	Cryptosporidium Pyruvate:ferredoxin oxidoreductase (Crypto CpPNO)
+TARGTYPE	Successful target
+
+TARGETID	T38161
+UNIPROID	ANXA1_HUMAN
+TARGNAME	Phospholipase A2 inhibitory protein (PA2IP)
+TARGTYPE	Successful target
+
+TARGETID	T38179
+UNIPROID	BLAC_STAAU
+TARGNAME	Staphylococcus Beta-lactamase (Stap-coc blaZ)
+TARGTYPE	Successful target
+
+TARGETID	T38284
+UNIPROID	BCR_HUMAN-ABL1_HUMAN
+TARGNAME	Fusion protein Bcr-Abl (Bcr-Abl)
+TARGTYPE	Successful target
+
+TARGETID	T38301
+UNIPROID	RIR2_HUMAN
+TARGNAME	Ribonucleoside-diphosphate reductase M2 (RRM2)
+TARGTYPE	Successful target
+
+TARGETID	T38338
+UNIPROID	CAC1B_HUMAN
+TARGNAME	Voltage-gated calcium channel alpha Cav2.2 (CACNA1B)
+TARGTYPE	Successful target
+
+TARGETID	T38529
+UNIPROID	PE2R2_HUMAN
+TARGNAME	Prostaglandin E2 receptor EP2 (PTGER2)
+TARGTYPE	Successful target
+
+TARGETID	T38950
+UNIPROID	CD33_HUMAN
+TARGNAME	Myeloid cell surface antigen CD33 (CD33)
+TARGTYPE	Successful target
+
+TARGETID	T39078
+UNIPROID	NOUNIPROTAC
+TARGNAME	Calcium-activated potassium channel (KCN)
+TARGTYPE	Successful target
+
+TARGETID	T39087
+UNIPROID	POL_HV1B1
+TARGNAME	Human immunodeficiency virus Integrase (HIV IN)
+TARGTYPE	Successful target
+
+TARGETID	T39147
+UNIPROID	NOUNIPROTAC
+TARGNAME	Cytomegalovirus Terminase (CMV TRM)
+TARGTYPE	Successful target
+
+TARGETID	T39610
+UNIPROID	CALM1_HUMAN; CALM2_HUMAN; CALM3_HUMAN
+TARGNAME	Calmodulin (CALM)
+TARGTYPE	Successful target
+
+TARGETID	T39676
+UNIPROID	S47A1_HUMAN
+TARGNAME	Solute carrier family 47 member 1 (SLC47A1)
+TARGTYPE	Successful target
+
+TARGETID	T39716
+UNIPROID	SCN5A_HUMAN
+TARGNAME	Voltage-gated sodium channel alpha Nav1.5 (SCN5A)
+TARGTYPE	Successful target
+
+TARGETID	T40016
+UNIPROID	GCR_HUMAN
+TARGNAME	Glucocorticoid receptor (NR3C1)
+TARGTYPE	Successful target
+
+TARGETID	T40111
+UNIPROID	IMDH1_HUMAN
+TARGNAME	Inosine-5'-monophosphate dehydrogenase 1 (IMPDH1)
+TARGTYPE	Successful target
+
+TARGETID	T40474
+UNIPROID	MET_HUMAN
+TARGNAME	Proto-oncogene c-Met (MET)
+TARGTYPE	Successful target
+
+TARGETID	T40492
+UNIPROID	POLG_HCV1
+TARGNAME	Hepatitis C virus NS3 helicase (HCV NS3)
+TARGTYPE	Successful target
+
+TARGETID	T40555
+UNIPROID	POLG_HCV1
+TARGNAME	Hepatitis C virus Non-structural 5A (HCV NS5A)
+TARGTYPE	Successful target
+
+TARGETID	T40696
+UNIPROID	PARC_STAAS
+TARGNAME	Staphylococcus Topoisomerase IV (Stap-coc parC)
+TARGTYPE	Successful target
+
+TARGETID	T40800
+UNIPROID	AT1A1_HUMAN
+TARGNAME	Sodium pump subunit alpha-1 (ATP1A1)
+TARGTYPE	Successful target
+
+TARGETID	T40954
+UNIPROID	XDH_HUMAN
+TARGNAME	Xanthine dehydrogenase/oxidase (XDH)
+TARGTYPE	Successful target
+
+TARGETID	T41201
+UNIPROID	DPEP1_HUMAN
+TARGNAME	Dehydropeptidase I (DPEP1)
+TARGTYPE	Successful target
+
+TARGETID	T41263
+UNIPROID	TS1R1_HUMAN; TS1R2_HUMAN; TS1R3_HUMAN
+TARGNAME	Taste receptor (TASR)
+TARGTYPE	Successful target
+
+TARGETID	T41580
+UNIPROID	ADA2B_HUMAN
+TARGNAME	Adrenergic receptor alpha-2B (ADRA2B)
+TARGTYPE	Successful target
+
+TARGETID	T41750
+UNIPROID	GIPR_HUMAN
+TARGNAME	Gastric inhibitory polypeptide receptor (GIPR)
+TARGTYPE	Successful target
+
+TARGETID	T41955
+UNIPROID	TRPM8_HUMAN
+TARGNAME	Long transient receptor potential channel 8 (TRPM8)
+TARGTYPE	Successful target
+
+TARGETID	T42000
+UNIPROID	IL1B_HUMAN
+TARGNAME	Interleukin-1 beta (IL1B)
+TARGTYPE	Successful target
+
+TARGETID	T42354
+UNIPROID	SIGA_STAA8
+TARGNAME	Bacterial RNA polymerase sigma factor SigA (Bact sigA)
+TARGTYPE	Successful target
+
+TARGETID	T42392
+UNIPROID	GRIA2_HUMAN
+TARGNAME	Glutamate receptor AMPA 2 (GRIA2)
+TARGTYPE	Successful target
+
+TARGETID	T42446
+UNIPROID	GABR1_HUMAN; GABR2_HUMAN
+TARGNAME	Gamma-aminobutyric acid B receptor (GABBR)
+TARGTYPE	Successful target
+
+TARGETID	T42748
+UNIPROID	NOUNIPROTAC
+TARGNAME	Serotoninnorepinephrinedopamine reuptake (SNDR)
+TARGTYPE	Successful target
+
+TARGETID	T42822
+UNIPROID	HEMH_HUMAN
+TARGNAME	Ferrochelatase (FECH)
+TARGTYPE	Successful target
+
+TARGETID	T43189
+UNIPROID	NOUNIPROTAC
+TARGNAME	Tubulin (TUB)
+TARGTYPE	Successful target
+
+TARGETID	T43332
+UNIPROID	FA7_HUMAN
+TARGNAME	Coagulation factor VII (F7)
+TARGTYPE	Successful target
+
+TARGETID	T43415
+UNIPROID	NOUNIPROTAC
+TARGNAME	Tyrosine-protein kinase (PTK)
+TARGTYPE	Successful target
+
+TARGETID	T43739
+UNIPROID	SCNAA_HUMAN
+TARGNAME	Voltage-gated sodium channel alpha Nav1.8 (SCN10A)
+TARGTYPE	Successful target
+
+TARGETID	T43920
+UNIPROID	NOUNIPROTAC
+TARGNAME	Carbonic anhydrase (CA)
+TARGTYPE	Successful target
+
+TARGETID	T44068
+UNIPROID	ADRB1_HUMAN
+TARGNAME	Adrenergic receptor beta-1 (ADRB1)
+TARGTYPE	Successful target
+
+TARGETID	T44351
+UNIPROID	NOUNIPROTAC
+TARGNAME	Cannabinoid receptor (CB)
+TARGTYPE	Successful target
+
+TARGETID	T45262
+UNIPROID	CRFR1_HUMAN
+TARGNAME	Corticotropin-releasing factor receptor 1 (CRHR1)
+TARGTYPE	Successful target
+
+TARGETID	T45299
+UNIPROID	TPA_HUMAN
+TARGNAME	Tissue-type plasminogen activator (PLAT)
+TARGTYPE	Successful target
+
+TARGETID	T45598
+UNIPROID	NOUNIPROTAC
+TARGNAME	Interferon alpha (IFNA)
+TARGTYPE	Successful target
+
+TARGETID	T45993
+UNIPROID	NOUNIPROTAC
+TARGNAME	Calcium channel unspecific (CaC)
+TARGTYPE	Successful target
+
+TARGETID	T46128
+UNIPROID	PMEL_HUMAN
+TARGNAME	Melanocytes lineage-specific antigen GP100 (PMEL)
+TARGTYPE	Successful target
+
+TARGETID	T46185
+UNIPROID	ACM2_HUMAN
+TARGNAME	Muscarinic acetylcholine receptor M2 (CHRM2)
+TARGTYPE	Successful target
+
+TARGETID	T46360
+UNIPROID	SGMR1_HUMAN
+TARGNAME	Opioid receptor sigma 1 (OPRS1)
+TARGTYPE	Successful target
+
+TARGETID	T46456
+UNIPROID	RXRG_HUMAN
+TARGNAME	Retinoic acid receptor RXR-gamma (RXRG)
+TARGTYPE	Successful target
+
+TARGETID	T46482
+UNIPROID	TLR7_HUMAN
+TARGNAME	Toll-like receptor 7 (TLR7)
+TARGTYPE	Successful target
+
+TARGETID	T46628
+UNIPROID	MTP_HUMAN
+TARGNAME	Microsomal triglyceride transfer protein (MTTP)
+TARGTYPE	Successful target
+
+TARGETID	T46828
+UNIPROID	DRD5_HUMAN
+TARGNAME	Dopamine D5 receptor (D5R)
+TARGTYPE	Successful target
+
+TARGETID	T46904
+UNIPROID	SECR_HUMAN
+TARGNAME	Secretin receptor (SCT)
+TARGTYPE	Successful target
+
+TARGETID	T46937
+UNIPROID	P2Y12_HUMAN
+TARGNAME	P2Y purinoceptor 12 (P2RY12)
+TARGTYPE	Successful target
+
+TARGETID	T47077
+UNIPROID	NOUNIPROTAC
+TARGNAME	Prostaglandin receptor (PTGR)
+TARGTYPE	Successful target
+
+TARGETID	T47081
+UNIPROID	PPIA_HUMAN
+TARGNAME	Rotamase A (PPIA)
+TARGTYPE	Successful target
+
+TARGETID	T47094
+UNIPROID	NK1R_HUMAN
+TARGNAME	Substance-P receptor (TACR1)
+TARGTYPE	Successful target
+
+TARGETID	T47101
+UNIPROID	FGFR1_HUMAN
+TARGNAME	Fibroblast growth factor receptor 1 (FGFR1)
+TARGTYPE	Successful target
+
+TARGETID	T47107
+UNIPROID	KPCG_HUMAN
+TARGNAME	Protein kinase C gamma (PRKCG)
+TARGTYPE	Successful target
+
+TARGETID	T47610
+UNIPROID	I11RA_HUMAN
+TARGNAME	Interleukin 11 receptor alpha (IL11RA)
+TARGTYPE	Successful target
+
+TARGETID	T47623
+UNIPROID	HPSE_HUMAN
+TARGNAME	Heparanase (HPSE)
+TARGTYPE	Successful target
+
+TARGETID	T47768
+UNIPROID	OPRM_HUMAN
+TARGNAME	Opioid receptor mu (MOP)
+TARGTYPE	Successful target
+
+TARGETID	T47941
+UNIPROID	NOUNIPROTAC
+TARGNAME	Phosphodiesterase 4 (PDE4)
+TARGTYPE	Successful target
+
+TARGETID	T48069
+UNIPROID	IGF1R_HUMAN
+TARGNAME	Insulin-like growth factor I receptor (IGF1R)
+TARGTYPE	Successful target
+
+TARGETID	T48268
+UNIPROID	MTR1B_HUMAN
+TARGNAME	Melatonin receptor type 1B (MTNR1B)
+TARGTYPE	Successful target
+
+TARGETID	T48472
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial 70S ribosomal RNA (Bact 70S rRNA)
+TARGTYPE	Successful target
+
+TARGETID	T48873
+UNIPROID	VMAT2_HUMAN
+TARGNAME	Synaptic vesicle amine transporter (SLC18A2)
+TARGTYPE	Successful target
+
+TARGETID	T48940
+UNIPROID	NOUNIPROTAC
+TARGNAME	HIF-prolyl hydroxylase (HPH)
+TARGTYPE	Successful target
+
+TARGETID	T48945
+UNIPROID	TERT_HUMAN
+TARGNAME	TERT messenger RNA (TERT mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T49049
+UNIPROID	NOUNIPROTAC
+TARGNAME	Immunoglobulin Fc receptor (FCR)
+TARGTYPE	Successful target
+
+TARGETID	T49493
+UNIPROID	HBA_HUMAN
+TARGNAME	Hemoglobin (HB)
+TARGTYPE	Successful target
+
+TARGETID	T49526
+UNIPROID	KCNQ1_HUMAN
+TARGNAME	Voltage-gated potassium channel Kv7.1 (KCNQ1)
+TARGTYPE	Successful target
+
+TARGETID	T49814
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial Deoxyribonucleic acid (Bact DNA)
+TARGTYPE	Successful target
+
+TARGETID	T50066
+UNIPROID	CLCN2_HUMAN
+TARGNAME	Chloride channel protein 2 (CLC-2)
+TARGTYPE	Successful target
+
+TARGETID	T50269
+UNIPROID	GLRA1_HUMAN
+TARGNAME	Strychnine-binding glycine receptor (GLRA1)
+TARGTYPE	Successful target
+
+TARGETID	T50688
+UNIPROID	ITA2B_HUMAN; ITB3_HUMAN
+TARGNAME	Glycoprotein IIb/IIIa receptor (GPIIb/IIIa)
+TARGTYPE	Successful target
+
+TARGETID	T50912
+UNIPROID	CD86_HUMAN
+TARGNAME	T-lymphocyte activation antigen CD86 (FUN1)
+TARGTYPE	Successful target
+
+TARGETID	T50942
+UNIPROID	TNR16_HUMAN
+TARGNAME	Low-affinity nerve growth factor receptor (NGFR)
+TARGTYPE	Successful target
+
+TARGETID	T51038
+UNIPROID	NOUNIPROTAC
+TARGNAME	Hyaluronic acid (HA)
+TARGTYPE	Successful target
+
+TARGETID	T51076
+UNIPROID	NTRK3_HUMAN
+TARGNAME	NT-3 growth factor receptor (TrkC)
+TARGTYPE	Successful target
+
+TARGETID	T51115
+UNIPROID	CAC1C_HUMAN
+TARGNAME	Voltage-gated calcium channel alpha Cav1.2 (CACNA1C)
+TARGTYPE	Successful target
+
+TARGETID	T51120
+UNIPROID	PERT_HUMAN
+TARGNAME	Thyroid peroxidase (TPO)
+TARGTYPE	Successful target
+
+TARGETID	T51146
+UNIPROID	FUT4_HUMAN
+TARGNAME	Fucosyltransferase IV (CD15)
+TARGTYPE	Successful target
+
+TARGETID	T51282
+UNIPROID	ROCK1_HUMAN
+TARGNAME	Rho-associated protein kinase 1 (ROCK1)
+TARGTYPE	Successful target
+
+TARGETID	T51408
+UNIPROID	ADRB3_HUMAN
+TARGNAME	Adrenergic receptor beta-3 (ADRB3)
+TARGTYPE	Successful target
+
+TARGETID	T51426
+UNIPROID	NR1H4_HUMAN
+TARGNAME	Farnesoid X-activated receptor (FXR)
+TARGTYPE	Successful target
+
+TARGETID	T51452
+UNIPROID	GBRA2_HUMAN
+TARGNAME	GABA(A) receptor alpha-2 (GABRA2)
+TARGTYPE	Successful target
+
+TARGETID	T51487
+UNIPROID	GBRA1_HUMAN
+TARGNAME	GABA(A) receptor alpha-1 (GABRA1)
+TARGTYPE	Successful target
+
+TARGETID	T51593
+UNIPROID	TPH1_HUMAN; TPH2_HUMAN
+TARGNAME	Tryptophan hydroxylase (TPH)
+TARGTYPE	Successful target
+
+TARGETID	T51666
+UNIPROID	ATP4A_HUMAN
+TARGNAME	Gastric H(+)/K(+) ATPase alpha (ATP4A)
+TARGTYPE	Successful target
+
+TARGETID	T52007
+UNIPROID	NOUNIPROTAC
+TARGNAME	Peripheral carotid chemoreceptor (PCC)
+TARGTYPE	Successful target
+
+TARGETID	T52173
+UNIPROID	SCNNA_HUMAN; SCNNB_HUMAN; SCNNG_HUMAN; SCNND_HUMAN
+TARGNAME	Amiloride-sensitive sodium channel (ENaC)
+TARGTYPE	Successful target
+
+TARGETID	T52189
+UNIPROID	ACLY_HUMAN
+TARGNAME	ATP-citrate synthase (ACLY)
+TARGTYPE	Successful target
+
+TARGETID	T52227
+UNIPROID	TYSY_CANAL
+TARGNAME	Candida Thymidylate synthase (Candi TMP1)
+TARGTYPE	Successful target
+
+TARGETID	T52450
+UNIPROID	MMP1_HUMAN
+TARGNAME	Matrix metalloproteinase-1 (MMP-1)
+TARGTYPE	Successful target
+
+TARGETID	T52522
+UNIPROID	ADRB2_HUMAN
+TARGNAME	Adrenergic receptor beta-2 (ADRB2)
+TARGTYPE	Successful target
+
+TARGETID	T52624
+UNIPROID	NOUNIPROTAC
+TARGNAME	Platelet-derived growth factor receptor (PDGFR)
+TARGTYPE	Successful target
+
+TARGETID	T52771
+UNIPROID	A0A1Q4HQH4_9MYCO
+TARGNAME	Mycobacterium Proton pump (MycB Prop)
+TARGTYPE	Successful target
+
+TARGETID	T53024
+UNIPROID	SSR2_HUMAN
+TARGNAME	Somatostatin receptor type 2 (SSTR2)
+TARGTYPE	Successful target
+
+TARGETID	T53103
+UNIPROID	ANAG_HUMAN
+TARGNAME	Alpha-N-acetylglucosaminidase (NAGLU)
+TARGTYPE	Successful target
+
+TARGETID	T53139
+UNIPROID	ANGL3_HUMAN
+TARGNAME	Angiopoietin-related protein 3 (ANGPTL3)
+TARGTYPE	Successful target
+
+TARGETID	T53242
+UNIPROID	CMAS1_MYCTU; CMAS2_MYCTU; CMAS3_MYCTU
+TARGNAME	Mycobacterium Mycolic acid synthase (MycB cma)
+TARGTYPE	Successful target
+
+TARGETID	T53378
+UNIPROID	CAH4_HUMAN
+TARGNAME	Carbonic anhydrase IV (CA-IV)
+TARGTYPE	Successful target
+
+TARGETID	T53381
+UNIPROID	ADA1D_HUMAN
+TARGNAME	Adrenergic receptor alpha-1D (ADRA1D)
+TARGTYPE	Successful target
+
+TARGETID	T53524
+UNIPROID	PGFRA_HUMAN
+TARGNAME	Platelet-derived growth factor receptor alpha (PDGFRA)
+TARGTYPE	Successful target
+
+TARGETID	T53585
+UNIPROID	HMDH_HUMAN
+TARGNAME	HMG-CoA reductase (HMGCR)
+TARGTYPE	Successful target
+
+TARGETID	T53601
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial 50S ribosomal RNA (Bact 50S rRNA)
+TARGTYPE	Successful target
+
+TARGETID	T53748
+UNIPROID	Q965D5_PLAFA
+TARGNAME	Plasmodium Enoyl-ACP reductase (Malaria fabI)
+TARGTYPE	Successful target
+
+TARGETID	T53904
+UNIPROID	EGLN2_HUMAN
+TARGNAME	HIF-prolyl hydroxylase 1 (HPH-1)
+TARGTYPE	Successful target
+
+TARGETID	T54055
+UNIPROID	LYVE1_HUMAN
+TARGNAME	Hyaluronic acid receptor (LYVE1)
+TARGTYPE	Successful target
+
+TARGETID	T54128
+UNIPROID	NOUNIPROTAC
+TARGNAME	Glutamate receptor AMPA (GRIA)
+TARGTYPE	Successful target
+
+TARGETID	T54644
+UNIPROID	CAC1H_HUMAN
+TARGNAME	Voltage-gated calcium channel alpha Cav3.2 (CACNA1H)
+TARGTYPE	Successful target
+
+TARGETID	T55094
+UNIPROID	ASIC1_HUMAN
+TARGNAME	Acid-sensing ion channel 1 (ASIC1)
+TARGTYPE	Successful target
+
+TARGETID	T55285
+UNIPROID	GLRA1_HUMAN; GLRA2_HUMAN; GLRA3_HUMAN; GLRA4_HUMAN; GLRB_HUMAN
+TARGNAME	Glycine receptor (GlyR)
+TARGTYPE	Successful target
+
+TARGETID	T55654
+UNIPROID	CFTR_HUMAN
+TARGNAME	cAMP-dependent chloride channel (CFTR)
+TARGTYPE	Successful target
+
+TARGETID	T55689
+UNIPROID	LIPS_HUMAN
+TARGNAME	Hormone sensitive lipase (LIPE)
+TARGTYPE	Successful target
+
+TARGETID	T55815
+UNIPROID	ACHA2_HUMAN
+TARGNAME	Neuronal acetylcholine receptor alpha-2 (CHRNA2)
+TARGTYPE	Successful target
+
+TARGETID	T55922
+UNIPROID	DCAM_HUMAN
+TARGNAME	S-adenosylmethionine decarboxylase proenzyme (AMD1)
+TARGTYPE	Successful target
+
+TARGETID	T55959
+UNIPROID	SC6A3_HUMAN
+TARGNAME	Dopamine transporter (DAT)
+TARGTYPE	Successful target
+
+TARGETID	T56262
+UNIPROID	TPP1_HUMAN
+TARGNAME	Tripeptidyl-peptidase I (TPP1)
+TARGTYPE	Successful target
+
+TARGETID	T56365
+UNIPROID	CD19_HUMAN
+TARGNAME	B-lymphocyte surface antigen B4 (CD19)
+TARGTYPE	Successful target
+
+TARGETID	T56367
+UNIPROID	NOUNIPROTAC
+TARGNAME	Phosphodiesterase 1 (PDE1)
+TARGTYPE	Successful target
+
+TARGETID	T56418
+UNIPROID	ALK_HUMAN
+TARGNAME	ALK tyrosine kinase receptor (ALK)
+TARGTYPE	Successful target
+
+TARGETID	T56518
+UNIPROID	DPOL_HBVA3
+TARGNAME	Hepatitis B virus Reverse transcriptase (HBV RT)
+TARGTYPE	Successful target
+
+TARGETID	T56556
+UNIPROID	ABCG2_HUMAN
+TARGNAME	ATP-binding cassette transporter G2 (ABCG2)
+TARGTYPE	Successful target
+
+TARGETID	T56915
+UNIPROID	POL_HV1B1
+TARGNAME	Human immunodeficiency virus Protease (HIV PR)
+TARGTYPE	Successful target
+
+TARGETID	T56923
+UNIPROID	CXCR2_HUMAN
+TARGNAME	C-X-C chemokine receptor type 2 (CXCR2)
+TARGTYPE	Successful target
+
+TARGETID	T57011
+UNIPROID	ICAM1_HUMAN
+TARGNAME	ICAM1 messenger RNA (ICAM1 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T57361
+UNIPROID	NOUNIPROTAC
+TARGNAME	Kallikrein-related peptidase (KLK)
+TARGTYPE	Successful target
+
+TARGETID	T57392
+UNIPROID	CP2D6_HUMAN
+TARGNAME	Debrisoquine 4-hydroxylase (CYP2D6)
+TARGTYPE	Successful target
+
+TARGETID	T57585
+UNIPROID	NOUNIPROTAC
+TARGNAME	Chloride channel unspecific (ClC)
+TARGTYPE	Successful target
+
+TARGETID	T57680
+UNIPROID	GCYA1_HUMAN; GCYB1_HUMAN
+TARGNAME	Soluble guanylate cyclase (GCS)
+TARGTYPE	Successful target
+
+TARGETID	T57700
+UNIPROID	KIT_HUMAN
+TARGNAME	Tyrosine-protein kinase Kit (KIT)
+TARGTYPE	Successful target
+
+TARGETID	T58238
+UNIPROID	CD80_HUMAN
+TARGNAME	Activation B7-1 antigen (CD80)
+TARGTYPE	Successful target
+
+TARGETID	T58454
+UNIPROID	FGFR2_HUMAN
+TARGNAME	Fibroblast growth factor receptor 2 (FGFR2)
+TARGTYPE	Successful target
+
+TARGETID	T58921
+UNIPROID	PPARG_HUMAN
+TARGNAME	Peroxisome proliferator-activated receptor gamma (PPAR-gamma)
+TARGTYPE	Successful target
+
+TARGETID	T58992
+UNIPROID	OPRD_HUMAN
+TARGNAME	Opioid receptor delta (OPRD1)
+TARGTYPE	Successful target
+
+TARGETID	T59045
+UNIPROID	GABT_HUMAN
+TARGNAME	GABA transaminase (ABAT)
+TARGTYPE	Successful target
+
+TARGETID	T59102
+UNIPROID	PGFRB_HUMAN
+TARGNAME	Platelet-derived growth factor receptor beta (PDGFRB)
+TARGTYPE	Successful target
+
+TARGETID	T59122
+UNIPROID	LFA3_HUMAN
+TARGNAME	Surface glycoprotein LFA-3 (CD58)
+TARGTYPE	Successful target
+
+TARGETID	T59328
+UNIPROID	EGFR_HUMAN
+TARGNAME	Epidermal growth factor receptor (EGFR)
+TARGTYPE	Successful target
+
+TARGETID	T59480
+UNIPROID	RASK_HUMAN
+TARGNAME	KRAS G12C mutant (KRAS G12C)
+TARGTYPE	Successful target
+
+TARGETID	T59604
+UNIPROID	GHSR_HUMAN
+TARGNAME	Growth hormone secretagogue receptor 1 (GHSR)
+TARGTYPE	Successful target
+
+TARGETID	T59631
+UNIPROID	PDCD1_HUMAN
+TARGNAME	Programmed cell death protein 1 (PD-1)
+TARGTYPE	Successful target
+
+TARGETID	T59679
+UNIPROID	5HT4R_HUMAN
+TARGNAME	5-HT 4 receptor (HTR4)
+TARGTYPE	Successful target
+
+TARGETID	T59720
+UNIPROID	FHIT_HUMAN
+TARGNAME	Fragile histidine triad protein (FHIT)
+TARGTYPE	Successful target
+
+TARGETID	T59845
+UNIPROID	PP1A_HUMAN
+TARGNAME	Serine/threonine PP1-alpha (PPP1CA)
+TARGTYPE	Successful target
+
+TARGETID	T59881
+UNIPROID	V1BR_HUMAN
+TARGNAME	Vasopressin V1b receptor (V1BR)
+TARGTYPE	Successful target
+
+TARGETID	T59929
+UNIPROID	TYPH_HUMAN
+TARGNAME	Thymidine phosphorylase (TYMP)
+TARGTYPE	Successful target
+
+TARGETID	T60077
+UNIPROID	RXRB_HUMAN
+TARGNAME	Retinoic acid receptor RXR-beta (RXRB)
+TARGTYPE	Successful target
+
+TARGETID	T60182
+UNIPROID	GLR_HUMAN
+TARGNAME	Glucagon receptor (GCGR)
+TARGTYPE	Successful target
+
+TARGETID	T60345
+UNIPROID	NOUNIPROTAC
+TARGNAME	T-cell surface glycoprotein CD3 (CD3)
+TARGTYPE	Successful target
+
+TARGETID	T60366
+UNIPROID	DCOR_HUMAN
+TARGNAME	Ornithine decarboxylase (ODC1)
+TARGTYPE	Successful target
+
+TARGETID	T60433
+UNIPROID	CD1A_HUMAN
+TARGNAME	T-cell surface glycoprotein CD1a (CD1A)
+TARGTYPE	Successful target
+
+TARGETID	T60529
+UNIPROID	PGH1_HUMAN
+TARGNAME	Prostaglandin G/H synthase 1 (COX-1)
+TARGTYPE	Successful target
+
+TARGETID	T60606
+UNIPROID	TSHR_HUMAN
+TARGNAME	Thyrotropin receptor (TSHR)
+TARGTYPE	Successful target
+
+TARGETID	T60631
+UNIPROID	RET_HUMAN
+TARGNAME	Proto-oncogene c-Ret (RET)
+TARGTYPE	Successful target
+
+TARGETID	T60693
+UNIPROID	OPRK_HUMAN
+TARGNAME	Opioid receptor kappa (OPRK1)
+TARGTYPE	Successful target
+
+TARGETID	T60708
+UNIPROID	CO5_HUMAN
+TARGNAME	Complement C5 (CO5)
+TARGTYPE	Successful target
+
+TARGETID	T60724
+UNIPROID	SOST_HUMAN
+TARGNAME	Sclerostin (SOST)
+TARGTYPE	Successful target
+
+TARGETID	T60810
+UNIPROID	NOUNIPROTAC
+TARGNAME	Cell mediated immunity response (CMIR)
+TARGTYPE	Successful target
+
+TARGETID	T60857
+UNIPROID	AK1C3_HUMAN
+TARGNAME	Dihydrodiol dehydrogenase type I (AKR1C3)
+TARGTYPE	Successful target
+
+TARGETID	T61339
+UNIPROID	LYAG_HUMAN; GANAB_HUMAN; GANC_HUMAN
+TARGNAME	Alpha-glucosidase (GLA)
+TARGTYPE	Successful target
+
+TARGETID	T61400
+UNIPROID	PYRD_HUMAN
+TARGNAME	Dihydroorotate dehydrogenase (DHODH)
+TARGTYPE	Successful target
+
+TARGETID	T61622
+UNIPROID	RENI_HUMAN
+TARGNAME	Angiotensinogenase renin (REN)
+TARGTYPE	Successful target
+
+TARGETID	T61657
+UNIPROID	RARB_HUMAN
+TARGNAME	Retinoic acid receptor beta (RARB)
+TARGTYPE	Successful target
+
+TARGETID	T61698
+UNIPROID	IL2_HUMAN
+TARGNAME	Interleukin-2 (IL2)
+TARGTYPE	Successful target
+
+TARGETID	T61744
+UNIPROID	PDE4A_HUMAN
+TARGNAME	Phosphodiesterase 4A (PDE4A)
+TARGTYPE	Successful target
+
+TARGETID	T61997
+UNIPROID	PSA1_HUMAN; PSA2_HUMAN
+TARGNAME	Core proteasome 20S complex (PS 20S)
+TARGTYPE	Successful target
+
+TARGETID	T62094
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial 30S ribosomal RNA (Bact 30S rRNA)
+TARGTYPE	Successful target
+
+TARGETID	T62151
+UNIPROID	NOUNIPROTAC
+TARGNAME	Monoamine oxidase (MAO)
+TARGTYPE	Successful target
+
+TARGETID	T62184
+UNIPROID	SC6A1_HUMAN
+TARGNAME	GABA transporter GAT-1 (SLC6A1)
+TARGTYPE	Successful target
+
+TARGETID	T62193
+UNIPROID	DDC_HUMAN
+TARGNAME	Aromatic-L-amino-acid decarboxylase (DDC)
+TARGTYPE	Successful target
+
+TARGETID	T62206
+UNIPROID	PCSK9_HUMAN
+TARGNAME	Proprotein convertase subtilisin/kexin type 9 (PCSK9)
+TARGTYPE	Successful target
+
+TARGETID	T62276
+UNIPROID	NMDZ1_HUMAN
+TARGNAME	Glutamate receptor ionotropic NMDA 1 (NMDAR1)
+TARGTYPE	Successful target
+
+TARGETID	T62292
+UNIPROID	GBRA3_HUMAN
+TARGNAME	GABA(A) receptor alpha-3 (GABRA3)
+TARGTYPE	Successful target
+
+TARGETID	T62390
+UNIPROID	TY3H_HUMAN
+TARGNAME	Tyrosine 3-monooxygenase (TH)
+TARGTYPE	Successful target
+
+TARGETID	T62391
+UNIPROID	GRIA3_HUMAN
+TARGNAME	Glutamate receptor AMPA 3 (GRIA3)
+TARGTYPE	Successful target
+
+TARGETID	T62431
+UNIPROID	KSYK_HUMAN
+TARGNAME	Tyrosine-protein kinase SYK (SYK)
+TARGTYPE	Successful target
+
+TARGETID	T62460
+UNIPROID	JAK1_HUMAN
+TARGNAME	Janus kinase 1 (JAK-1)
+TARGTYPE	Successful target
+
+TARGETID	T62501
+UNIPROID	NOUNIPROTAC
+TARGNAME	Toxic methotrexate (TM)
+TARGTYPE	Successful target
+
+TARGETID	T62905
+UNIPROID	SC5A6_HUMAN
+TARGNAME	Sodium-dependent multivitamin transporter (SLC5A6)
+TARGTYPE	Successful target
+
+TARGETID	T62945
+UNIPROID	NOUNIPROTAC
+TARGNAME	Voltage-gated calcium channel (Cav)
+TARGTYPE	Successful target
+
+TARGETID	T63068
+UNIPROID	ALBU_HUMAN
+TARGNAME	Serum albumin (ALB)
+TARGTYPE	Successful target
+
+TARGETID	T63140
+UNIPROID	Q9CDQ3_LACLA
+TARGNAME	Bacterial Integral membrane LmrP (Bact lmrP)
+TARGTYPE	Successful target
+
+TARGETID	T63155
+UNIPROID	KPYR_HUMAN
+TARGNAME	Pyruvate kinase PKLR (PKLR)
+TARGTYPE	Successful target
+
+TARGETID	T63156
+UNIPROID	MA2B1_HUMAN
+TARGNAME	Lysosomal alpha-mannosidase (MAN2B1)
+TARGTYPE	Successful target
+
+TARGETID	T63158
+UNIPROID	ASM_HUMAN
+TARGNAME	Sphingomyelin phosphodiesterase (SMPD1)
+TARGTYPE	Successful target
+
+TARGETID	T63484
+UNIPROID	G6PD_HUMAN
+TARGNAME	Glucose-6-phosphate dehydrogenase (G6PD)
+TARGTYPE	Successful target
+
+TARGETID	T63505
+UNIPROID	ABL1_HUMAN
+TARGNAME	Tyrosine-protein kinase ABL1 (ABL)
+TARGTYPE	Successful target
+
+TARGETID	T63598
+UNIPROID	E0VDF4_PEDHC
+TARGNAME	Pediculus humanus Nicotinic acetylcholine receptor (Pedhc nAChR)
+TARGTYPE	Successful target
+
+TARGETID	T63609
+UNIPROID	ADCY1_HUMAN
+TARGNAME	Adenylate cyclase type 1 (ADCY1)
+TARGTYPE	Successful target
+
+TARGETID	T63934
+UNIPROID	IFNA2_HUMAN
+TARGNAME	Interferon-alpha 2 (IFNA2)
+TARGTYPE	Successful target
+
+TARGETID	T63966
+UNIPROID	VGFR1_HUMAN
+TARGNAME	Vascular endothelial growth factor receptor 1 (FLT-1)
+TARGTYPE	Successful target
+
+TARGETID	T63967
+UNIPROID	ACHA4_HUMAN; ACHB2_HUMAN
+TARGNAME	Neuronal acetylcholine receptor alpha-4/beta-2 (CHRNA4/B2)
+TARGTYPE	Successful target
+
+TARGETID	T64258
+UNIPROID	MAP1A_HUMAN; MAP1B_HUMAN
+TARGNAME	Microtubule-associated protein (MAP)
+TARGTYPE	Successful target
+
+TARGETID	T64382
+UNIPROID	NOUNIPROTAC
+TARGNAME	Gamma-aminobutyric acid receptor (GAR)
+TARGTYPE	Successful target
+
+TARGETID	T64410
+UNIPROID	VANY_ENTFA
+TARGNAME	Bacterial DD-carboxypeptidase (Bact vanYB)
+TARGTYPE	Successful target
+
+TARGETID	T64591
+UNIPROID	5HT3A_HUMAN
+TARGNAME	5-HT 3A receptor (HTR3A)
+TARGTYPE	Successful target
+
+TARGETID	T64765
+UNIPROID	HRH3_HUMAN
+TARGNAME	Histamine H3 receptor (H3R)
+TARGTYPE	Successful target
+
+TARGETID	T64795
+UNIPROID	CAC1G_HUMAN
+TARGNAME	Voltage-gated calcium channel alpha Cav3.1 (CACNA1G)
+TARGTYPE	Successful target
+
+TARGETID	T64830
+UNIPROID	SSR5_HUMAN
+TARGNAME	Somatostatin receptor type 5 (SSTR5)
+TARGTYPE	Successful target
+
+TARGETID	T65197
+UNIPROID	EPOR_HUMAN
+TARGNAME	Erythropoietin Receptor (EPOR)
+TARGTYPE	Successful target
+
+TARGETID	T65236
+UNIPROID	GPER1_HUMAN
+TARGNAME	G-protein coupled estrogen receptor 1 (GPER1)
+TARGTYPE	Successful target
+
+TARGETID	T65291
+UNIPROID	AL3A2_HUMAN
+TARGNAME	Fatty aldehyde dehydrogenase (ALDH3A2)
+TARGTYPE	Successful target
+
+TARGETID	T65414
+UNIPROID	ENV_HV1H2
+TARGNAME	Human immunodeficiency virus Envelope messenger RNA (HIV env mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T65570
+UNIPROID	ADH1A_HUMAN
+TARGNAME	Alcohol dehydrogenase 1A (ADH1A)
+TARGTYPE	Successful target
+
+TARGETID	T65755
+UNIPROID	NOUNIPROTAC
+TARGNAME	Histone deacetylase (HDAC)
+TARGTYPE	Successful target
+
+TARGETID	T65868
+UNIPROID	NOUNIPROTAC
+TARGNAME	RNA synthesis (hRNA synth)
+TARGTYPE	Successful target
+
+TARGETID	T66011
+UNIPROID	CFAB_HUMAN
+TARGNAME	Complement factor B (CFB)
+TARGTYPE	Successful target
+
+TARGETID	T66023
+UNIPROID	NOUNIPROTAC
+TARGNAME	Schistosoma Deoxyribonucleic acid (Schist DNA)
+TARGTYPE	Successful target
+
+TARGETID	T66030
+UNIPROID	NOUNIPROTAC
+TARGNAME	Natural killer cell activation (NKA)
+TARGTYPE	Successful target
+
+TARGETID	T66040
+UNIPROID	MRDA_ECOLI
+TARGNAME	Bacterial Penicillin binding protein 2 (Bact mrdA)
+TARGTYPE	Successful target
+
+TARGETID	T66237
+UNIPROID	V2R_HUMAN
+TARGNAME	Vasopressin V2 receptor (V2R)
+TARGTYPE	Successful target
+
+TARGETID	T66350
+UNIPROID	RAB9A_HUMAN
+TARGNAME	Ras-related protein Rab-9A (RAB9A)
+TARGTYPE	Successful target
+
+TARGETID	T66505
+UNIPROID	SMO_HUMAN
+TARGNAME	Smoothened homolog (SMO)
+TARGTYPE	Successful target
+
+TARGETID	T66665
+UNIPROID	PGH2_HUMAN
+TARGNAME	Prostaglandin G/H synthase 2 (COX-2)
+TARGTYPE	Successful target
+
+TARGETID	T66693
+UNIPROID	TNR17_HUMAN
+TARGNAME	B-cell maturation protein (TNFRSF17)
+TARGTYPE	Successful target
+
+TARGETID	T67162
+UNIPROID	DRD2_HUMAN
+TARGNAME	Dopamine D2 receptor (D2R)
+TARGTYPE	Successful target
+
+TARGETID	T67282
+UNIPROID	SYL_STAAE
+TARGNAME	Staphylococcus Leucyl-tRNA synthetase (Stap-coc leuS)
+TARGTYPE	Successful target
+
+TARGETID	T67619
+UNIPROID	AKT1_HUMAN
+TARGNAME	RAC-alpha serine/threonine-protein kinase (AKT1)
+TARGTYPE	Successful target
+
+TARGETID	T67684
+UNIPROID	ACM3_HUMAN
+TARGNAME	Muscarinic acetylcholine receptor M3 (CHRM3)
+TARGTYPE	Successful target
+
+TARGETID	T67710
+UNIPROID	PTH1R_HUMAN
+TARGNAME	Parathyroid hormone 1 receptor (PTH1R)
+TARGTYPE	Successful target
+
+TARGETID	T67849
+UNIPROID	PK3CD_HUMAN
+TARGNAME	PI3-kinase delta (PIK3CD)
+TARGTYPE	Successful target
+
+TARGETID	T67952
+UNIPROID	NOUNIPROTAC
+TARGNAME	Potassium channel unspecific (KC)
+TARGTYPE	Successful target
+
+TARGETID	T67977
+UNIPROID	NOUNIPROTAC
+TARGNAME	Cytochrome P450 3A (CYP3A)
+TARGTYPE	Successful target
+
+TARGETID	T68066
+UNIPROID	ERR1_HUMAN; ERR2_HUMAN; ERR3_HUMAN
+TARGNAME	Steroid hormone receptor ERR (ESRR)
+TARGTYPE	Successful target
+
+TARGETID	T68251
+UNIPROID	MMP2_HUMAN
+TARGNAME	Matrix metalloproteinase-2 (MMP-2)
+TARGTYPE	Successful target
+
+TARGETID	T68253
+UNIPROID	DDL_MYCTO
+TARGNAME	Mycobacterium D-alanine-D-alanine ligase (MycB ddl)
+TARGTYPE	Successful target
+
+TARGETID	T68334
+UNIPROID	FSHR_HUMAN
+TARGNAME	Follicle-stimulating hormone receptor (FSHR)
+TARGTYPE	Successful target
+
+TARGETID	T68461
+UNIPROID	ADT1_HUMAN
+TARGNAME	Adenine nucleotide translocator 1 (SLC25A4)
+TARGTYPE	Successful target
+
+TARGETID	T68536
+UNIPROID	NOUNIPROTAC
+TARGNAME	Tubulin beta (TUBB)
+TARGTYPE	Successful target
+
+TARGETID	T68547
+UNIPROID	HDAC1_HUMAN
+TARGNAME	Histone deacetylase 1 (HDAC1)
+TARGTYPE	Successful target
+
+TARGETID	T68934
+UNIPROID	NOUNIPROTAC
+TARGNAME	Collagen (CO)
+TARGTYPE	Successful target
+
+TARGETID	T69128
+UNIPROID	ROS1_HUMAN
+TARGNAME	Proto-oncogene c-Ros (ROS1)
+TARGTYPE	Successful target
+
+TARGETID	T69189
+UNIPROID	NOUNIPROTAC
+TARGNAME	Hedgehog signaling pathway (HS pathway)
+TARGTYPE	Successful target
+
+TARGETID	T69485
+UNIPROID	OX2R_HUMAN
+TARGNAME	Orexin receptor type 2 (HCRTR2)
+TARGTYPE	Successful target
+
+TARGETID	T69494
+UNIPROID	NOUNIPROTAC
+TARGNAME	N-methyl-D-aspartate receptor (NMDAR)
+TARGTYPE	Successful target
+
+TARGETID	T69506
+UNIPROID	NR1I3_HUMAN
+TARGNAME	Orphan nuclear receptor NR1I3 (NR1I3)
+TARGTYPE	Successful target
+
+TARGETID	T69563
+UNIPROID	IDHC_HUMAN
+TARGNAME	Oxalosuccinate decarboxylase (IDH1)
+TARGTYPE	Successful target
+
+TARGETID	T69619
+UNIPROID	AOC3_HUMAN
+TARGNAME	Membrane copper amine oxidase (AOC3)
+TARGTYPE	Successful target
+
+TARGETID	T69707
+UNIPROID	NOUNIPROTAC
+TARGNAME	Proteasome (PS)
+TARGTYPE	Successful target
+
+TARGETID	T70449
+UNIPROID	GHRHR_HUMAN
+TARGNAME	Growth hormone-releasing hormone receptor (GHRHR)
+TARGTYPE	Successful target
+
+TARGETID	T70680
+UNIPROID	S22A8_HUMAN
+TARGNAME	Solute carrier family 22 member 8 (SLC22A8)
+TARGTYPE	Successful target
+
+TARGETID	T70792
+UNIPROID	PLGF_HUMAN
+TARGNAME	Placenta growth factor (PlGF)
+TARGTYPE	Successful target
+
+TARGETID	T70967
+UNIPROID	ACHA4_HUMAN
+TARGNAME	Neuronal acetylcholine receptor alpha-4 (CHRNA4)
+TARGTYPE	Successful target
+
+TARGETID	T71023
+UNIPROID	SNP25_HUMAN
+TARGNAME	Synaptosomal-associated protein 25 (SNAP25)
+TARGTYPE	Successful target
+
+TARGETID	T71192
+UNIPROID	CLTR1_HUMAN
+TARGNAME	Leukotriene CysLT1 receptor (CYSLTR1)
+TARGTYPE	Successful target
+
+TARGETID	T71230
+UNIPROID	ANPRA_HUMAN
+TARGNAME	Atrial natriuretic peptide receptor A (NPR1)
+TARGTYPE	Successful target
+
+TARGETID	T71266
+UNIPROID	AKT3_HUMAN
+TARGNAME	RAC-gamma serine/threonine-protein kinase (AKT3)
+TARGTYPE	Successful target
+
+TARGETID	T71377
+UNIPROID	IL3RA_HUMAN
+TARGNAME	Interleukin 3 receptor alpha (IL3RA)
+TARGTYPE	Successful target
+
+TARGETID	T71390
+UNIPROID	S5A2_HUMAN
+TARGNAME	Steroid 5-alpha-reductase 2 (SRD5A2)
+TARGTYPE	Successful target
+
+TARGETID	T71398
+UNIPROID	NOUNIPROTAC
+TARGNAME	Guanylate cyclase (GC)
+TARGTYPE	Successful target
+
+TARGETID	T71484
+UNIPROID	NOUNIPROTAC
+TARGNAME	Fungal Microtubule (Fung MicroTU)
+TARGTYPE	Successful target
+
+TARGETID	T71501
+UNIPROID	Q67889_HBV
+TARGNAME	Hepatitis B virus Polymerase (HBV P)
+TARGTYPE	Successful target
+
+TARGETID	T71536
+UNIPROID	NOUNIPROTAC
+TARGNAME	Human Deoxyribonucleic acid minor groove (hDNA min)
+TARGTYPE	Successful target
+
+TARGETID	T71556
+UNIPROID	NOUNIPROTAC
+TARGNAME	Lymphoid cell adhesion molecule expression (LCDME)
+TARGTYPE	Successful target
+
+TARGETID	T71690
+UNIPROID	ODP1_ECOLI
+TARGNAME	Bacterial Pyruvate decarboxylase (Bact aceE)
+TARGTYPE	Successful target
+
+TARGETID	T71905
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial 16S ribosomal RNA (Bact 16S rRNA)
+TARGTYPE	Successful target
+
+TARGETID	T71907
+UNIPROID	SMN_HUMAN
+TARGNAME	Survival motor neuron protein (SMN1)
+TARGTYPE	Successful target
+
+TARGETID	T72065
+UNIPROID	NOUNIPROTAC
+TARGNAME	Voltage-gated sodium channel (Nav)
+TARGTYPE	Successful target
+
+TARGETID	T72168
+UNIPROID	MCR_HUMAN
+TARGNAME	Mineralocorticoid receptor  (MR)
+TARGTYPE	Successful target
+
+TARGETID	T72171
+UNIPROID	CCR5_HUMAN
+TARGNAME	CCR5 messenger RNA (CCR5 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T72458
+UNIPROID	MC4R_HUMAN
+TARGNAME	Melanocortin receptor 4 (MC4R)
+TARGTYPE	Successful target
+
+TARGETID	T72515
+UNIPROID	IL1R1_HUMAN
+TARGNAME	Interleukin 1 receptor type 1 (IL1R1)
+TARGTYPE	Successful target
+
+TARGETID	T72545
+UNIPROID	PARC_ECOLI
+TARGNAME	Bacterial DNA topoisomerase 4A (Bact parC)
+TARGTYPE	Successful target
+
+TARGETID	T72657
+UNIPROID	F4NA87_STAAU
+TARGNAME	Staphylococcus 30S ribosomal subunit (Stap-coc pbp2)
+TARGTYPE	Successful target
+
+TARGETID	T72702
+UNIPROID	TF_HUMAN
+TARGNAME	Tissue factor (F3)
+TARGTYPE	Successful target
+
+TARGETID	T72841
+UNIPROID	ERR1_HUMAN
+TARGNAME	Estrogen-related receptor-alpha (ESRRA)
+TARGTYPE	Successful target
+
+TARGETID	T73097
+UNIPROID	CSF2R_HUMAN
+TARGNAME	GMCSFR-alpha (CSF2RA)
+TARGTYPE	Successful target
+
+TARGETID	T73189
+UNIPROID	FKS2_YEAST
+TARGNAME	Fungal 1,3-beta-glucan synthase (Fung GSC2)
+TARGTYPE	Successful target
+
+TARGETID	T73215
+UNIPROID	CD20_HUMAN
+TARGNAME	Leukocyte surface antigen Leu-16 (CD20)
+TARGTYPE	Successful target
+
+TARGETID	T73342
+UNIPROID	RIR1_HUMAN; RIR2_HUMAN; RIR2B_HUMAN
+TARGNAME	Ribonucleotide reductase (RIR)
+TARGTYPE	Successful target
+
+TARGETID	T73475
+UNIPROID	MMP7_HUMAN
+TARGNAME	Matrix metalloproteinase-7 (MMP-7)
+TARGTYPE	Successful target
+
+TARGETID	T73476
+UNIPROID	ANT3_HUMAN
+TARGNAME	Antithrombin-III (ATIII)
+TARGTYPE	Successful target
+
+TARGETID	T73495
+UNIPROID	GRIK1_HUMAN
+TARGNAME	Glutamate receptor ionotropic kainate 1 (GRIK1)
+TARGTYPE	Successful target
+
+TARGETID	T73676
+UNIPROID	SV2A_HUMAN
+TARGNAME	Synaptic vesicle glycoprotein 2A (SV2A)
+TARGTYPE	Successful target
+
+TARGETID	T73712
+UNIPROID	FABPL_HUMAN
+TARGNAME	Fatty acid-binding protein 1 (FABP1)
+TARGTYPE	Successful target
+
+TARGETID	T73726
+UNIPROID	CP51_CANAL
+TARGNAME	Candida Cytochrome P450 51 (Candi ERG11)
+TARGTYPE	Successful target
+
+TARGETID	T73760
+UNIPROID	NOUNIPROTAC
+TARGNAME	T(H2) cytokine production (TH2 produ)
+TARGTYPE	Successful target
+
+TARGETID	T74002
+UNIPROID	CSF2_HUMAN
+TARGNAME	Granulocyte-macrophage colony-stimulating factor (CSF2)
+TARGTYPE	Successful target
+
+TARGETID	T74166
+UNIPROID	ACHA3_HUMAN-ACHB4_HUMAN
+TARGNAME	Neuronal acetylcholine receptor alpha-3/beta-4 (CHRNA3/B4)
+TARGTYPE	Successful target
+
+TARGETID	T74312
+UNIPROID	FLT3_HUMAN
+TARGNAME	Fms-like tyrosine kinase 3 (FLT-3)
+TARGTYPE	Successful target
+
+TARGETID	T74363
+UNIPROID	UPAR_HUMAN
+TARGNAME	Urokinase plasminogen activator surface receptor (PLAUR)
+TARGTYPE	Successful target
+
+TARGETID	T74429
+UNIPROID	NOUNIPROTAC
+TARGNAME	Calcium (Ca)
+TARGTYPE	Successful target
+
+TARGETID	T74456
+UNIPROID	AGTR1_HUMAN
+TARGNAME	Angiotensin II receptor type-1 (AGTR1)
+TARGTYPE	Successful target
+
+TARGETID	T74500
+UNIPROID	KCND3_HUMAN
+TARGNAME	Voltage-gated potassium channel Kv4.3 (KCND3)
+TARGTYPE	Successful target
+
+TARGETID	T74654
+UNIPROID	NOUNIPROTAC
+TARGNAME	Adrenergic neuron (AD neuro)
+TARGTYPE	Successful target
+
+TARGETID	T75041
+UNIPROID	NOUNIPROTAC
+TARGNAME	Tumor-associated glycoprotein 72 (TAG-72)
+TARGTYPE	Successful target
+
+TARGETID	T75243
+UNIPROID	MTOR_HUMAN
+TARGNAME	Serine/threonine-protein kinase mTOR (mTOR)
+TARGTYPE	Successful target
+
+TARGETID	T75273
+UNIPROID	GYRA_STAAU
+TARGNAME	Staphylococcus DNA gyrase A (Stap-coc gyrA)
+TARGTYPE	Successful target
+
+TARGETID	T75440
+UNIPROID	TSPO_HUMAN
+TARGNAME	Translocator protein (TSPO)
+TARGTYPE	Successful target
+
+TARGETID	T75498
+UNIPROID	NQO2_HUMAN
+TARGNAME	Quinone reductase 2 (NQO2)
+TARGTYPE	Successful target
+
+TARGETID	T75499
+UNIPROID	NOUNIPROTAC
+TARGNAME	Human Deoxyribonucleic acid major groove (hDNA maj)
+TARGTYPE	Successful target
+
+TARGETID	T75797
+UNIPROID	PF2R_HUMAN
+TARGNAME	Prostaglandin F2-alpha receptor (PTGFR)
+TARGTYPE	Successful target
+
+TARGETID	T75888
+UNIPROID	CPT1B_HUMAN
+TARGNAME	Carnitine O-palmitoyltransferase I (CPT1B)
+TARGTYPE	Successful target
+
+TARGETID	T75890
+UNIPROID	DPYD_HUMAN
+TARGNAME	Dihydrothymine dehydrogenase (DPYD)
+TARGTYPE	Successful target
+
+TARGETID	T75984
+UNIPROID	NOUNIPROTAC
+TARGNAME	5-HT 2 receptor (5HT2R)
+TARGTYPE	Successful target
+
+TARGETID	T76024
+UNIPROID	C1S_HUMAN
+TARGNAME	Complement C1s component (C1S)
+TARGTYPE	Successful target
+
+TARGETID	T76059
+UNIPROID	FKB1A_HUMAN
+TARGNAME	FK506-binding protein 1A (FKBP1A)
+TARGTYPE	Successful target
+
+TARGETID	T76198
+UNIPROID	TA2R_HUMAN
+TARGNAME	Thromboxane A2 receptor (TBXA2R)
+TARGTYPE	Successful target
+
+TARGETID	T76213
+UNIPROID	PH4H_HUMAN
+TARGNAME	Phenylalanine hydroxylase (PAH)
+TARGTYPE	Successful target
+
+TARGETID	T76369
+UNIPROID	EST1_HUMAN
+TARGNAME	Liver carboxylesterase (CES1)
+TARGTYPE	Successful target
+
+TARGETID	T76414
+UNIPROID	NMDE2_HUMAN
+TARGNAME	Glutamate receptor ionotropic NMDA 2B (NMDAR2B)
+TARGTYPE	Successful target
+
+TARGETID	T76497
+UNIPROID	6PGD_HUMAN
+TARGNAME	Phosphogluconate dehydrogenase (PGD)
+TARGTYPE	Successful target
+
+TARGETID	T76630
+UNIPROID	CD52_HUMAN
+TARGNAME	Cambridge pathology 1 antigen (CD52)
+TARGTYPE	Successful target
+
+TARGETID	T76685
+UNIPROID	CNR1_HUMAN
+TARGNAME	Cannabinoid receptor 1 (CB1)
+TARGTYPE	Successful target
+
+TARGETID	T76904
+UNIPROID	COMT_HUMAN
+TARGNAME	Catechol-O-methyl-transferase (COMT)
+TARGTYPE	Successful target
+
+TARGETID	T76910
+UNIPROID	GSK3A_HUMAN
+TARGNAME	Glycogen synthase kinase-3 alpha (GSK-3A)
+TARGTYPE	Successful target
+
+TARGETID	T76937
+UNIPROID	SCN3A_HUMAN
+TARGNAME	Voltage-gated sodium channel alpha Nav1.3 (SCN3A)
+TARGTYPE	Successful target
+
+TARGETID	T77009
+UNIPROID	PRDX5_HUMAN
+TARGNAME	Thioredoxin reductase (PRDX5)
+TARGTYPE	Successful target
+
+TARGETID	T77195
+UNIPROID	NU3M_HUMAN
+TARGNAME	NADH dehydrogenase (MT-ND3)
+TARGTYPE	Successful target
+
+TARGETID	T77365
+UNIPROID	AA2AR_HUMAN
+TARGNAME	Adenosine A2a receptor (ADORA2A)
+TARGTYPE	Successful target
+
+TARGETID	T77664
+UNIPROID	IFNG_HUMAN
+TARGNAME	Interferon-gamma (IFNG)
+TARGTYPE	Successful target
+
+TARGETID	T77796
+UNIPROID	TRFR_HUMAN
+TARGNAME	Thyrotropin-releasing hormone receptor (TRHR)
+TARGTYPE	Successful target
+
+TARGETID	T77913
+UNIPROID	HRH1_HUMAN
+TARGNAME	Histamine H1 receptor (H1R)
+TARGTYPE	Successful target
+
+TARGETID	T78111
+UNIPROID	NOUNIPROTAC
+TARGNAME	Nicotinic acetylcholine receptor (nAChR)
+TARGTYPE	Successful target
+
+TARGETID	T78173
+UNIPROID	ERG1_CANAL
+TARGNAME	Candida Squalene epoxidase (Candi ERG1)
+TARGTYPE	Successful target
+
+TARGETID	T78277
+UNIPROID	ASGL1_HUMAN
+TARGNAME	Asparaginase (ASRGL1)
+TARGTYPE	Successful target
+
+TARGETID	T78585
+UNIPROID	IL5_HUMAN
+TARGNAME	Interleukin-5 (IL5)
+TARGTYPE	Successful target
+
+TARGETID	T78656
+UNIPROID	5HT1F_HUMAN
+TARGNAME	5-HT 1F receptor (HTR1F)
+TARGTYPE	Successful target
+
+TARGETID	T78709
+UNIPROID	5HT1A_HUMAN
+TARGNAME	5-HT 1A receptor (HTR1A)
+TARGTYPE	Successful target
+
+TARGETID	T78932
+UNIPROID	TYK2_HUMAN
+TARGNAME	TYK2 tyrosine kinase (TYK2)
+TARGTYPE	Successful target
+
+TARGETID	T78937
+UNIPROID	NOUNIPROTAC
+TARGNAME	Ribosome A (hRA)
+TARGTYPE	Successful target
+
+TARGETID	T79068
+UNIPROID	INHA_MYCTU
+TARGNAME	Bacterial Fatty acid synthetase I (Bact inhA)
+TARGTYPE	Successful target
+
+TARGETID	T79232
+UNIPROID	V1AR_HUMAN
+TARGNAME	Vasopressin V1a receptor (V1AR)
+TARGTYPE	Successful target
+
+TARGETID	T79249
+UNIPROID	TYSY_HUMAN
+TARGNAME	Thymidylate synthase messenger RNA (TYMS mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T79473
+UNIPROID	LSHR_HUMAN
+TARGNAME	Luteinizing hormone receptor (LHCGR)
+TARGTYPE	Successful target
+
+TARGETID	T79591
+UNIPROID	THA_HUMAN
+TARGNAME	Thyroid hormone receptor alpha (THRA)
+TARGTYPE	Successful target
+
+TARGETID	T79798
+UNIPROID	MK12_HUMAN
+TARGNAME	MAP kinase p38 (MAPK12)
+TARGTYPE	Successful target
+
+TARGETID	T79961
+UNIPROID	ACM5_HUMAN
+TARGNAME	Muscarinic acetylcholine receptor M5 (CHRM5)
+TARGTYPE	Successful target
+
+TARGETID	T80276
+UNIPROID	PK3CA_HUMAN
+TARGNAME	PI3-kinase alpha (PIK3CA)
+TARGTYPE	Successful target
+
+TARGETID	T80387
+UNIPROID	GBRB2_HUMAN
+TARGNAME	GABA(A) receptor beta-2 (GABRB2)
+TARGTYPE	Successful target
+
+TARGETID	T80782
+UNIPROID	VGFR1_HUMAN
+TARGNAME	VEGFR1 messenger RNA (VEGFR1 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T80896
+UNIPROID	ESR2_HUMAN
+TARGNAME	Estrogen receptor beta (ESR2)
+TARGTYPE	Successful target
+
+TARGETID	T80942
+UNIPROID	NOUNIPROTAC
+TARGNAME	Matrix metalloproteinase (MMP)
+TARGTYPE	Successful target
+
+TARGETID	T80975
+UNIPROID	VGFR2_HUMAN
+TARGNAME	Vascular endothelial growth factor receptor 2 (KDR)
+TARGTYPE	Successful target
+
+TARGETID	T81100
+UNIPROID	SC5A2_HUMAN
+TARGNAME	SLC5A2 messenger RNA (SLC5A2 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T81183
+UNIPROID	NOUNIPROTAC
+TARGNAME	Adrenergic receptor Alpha-1 (ADRA1)
+TARGTYPE	Successful target
+
+TARGETID	T81774
+UNIPROID	NOUNIPROTAC
+TARGNAME	Tubulin polymerization (TubP)
+TARGTYPE	Successful target
+
+TARGETID	T81900
+UNIPROID	IDE_HUMAN
+TARGNAME	Insulin-degrading enzyme (IDE)
+TARGTYPE	Successful target
+
+TARGETID	T81905
+UNIPROID	NOUNIPROTAC
+TARGNAME	Histamine receptor (HR)
+TARGTYPE	Successful target
+
+TARGETID	T82146
+UNIPROID	RARG_HUMAN
+TARGNAME	Retinoic acid receptor gamma (RARG)
+TARGTYPE	Successful target
+
+TARGETID	T82240
+UNIPROID	FCG3A_HUMAN; FCG3B_HUMAN
+TARGNAME	Immunoglobulin gamma Fc receptor III (FCGR3)
+TARGTYPE	Successful target
+
+TARGETID	T82266
+UNIPROID	NOUNIPROTAC
+TARGNAME	Voltage-gated L-type calcium channel (L-CaC)
+TARGTYPE	Successful target
+
+TARGETID	T82349
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial Cell membrane (Bact CM)
+TARGTYPE	Successful target
+
+TARGETID	T82383
+UNIPROID	UFO_HUMAN
+TARGNAME	Tyrosine-protein kinase UFO (AXL)
+TARGTYPE	Successful target
+
+TARGETID	T82577
+UNIPROID	ACE_HUMAN
+TARGNAME	Angiotensin-converting enzyme (ACE)
+TARGTYPE	Successful target
+
+TARGETID	T82624
+UNIPROID	ITPR1_HUMAN; ITPR2_HUMAN; ITPR3_HUMAN
+TARGNAME	Inositol 1,4,5-trisphosphate receptor (ITPR)
+TARGTYPE	Successful target
+
+TARGETID	T82739
+UNIPROID	KLKB1_HUMAN
+TARGNAME	Plasma kallikrein (KLKB1)
+TARGTYPE	Successful target
+
+TARGETID	T82795
+UNIPROID	CTNB1_HUMAN
+TARGNAME	Beta-catenin (CTNNB1)
+TARGTYPE	Successful target
+
+TARGETID	T82841
+UNIPROID	INS_HUMAN
+TARGNAME	Insulin (INS)
+TARGTYPE	Successful target
+
+TARGETID	T83011
+UNIPROID	AOFB_HUMAN
+TARGNAME	Monoamine oxidase type B (MAO-B)
+TARGTYPE	Successful target
+
+TARGETID	T83051
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial Ribosome (Bact RIBS)
+TARGTYPE	Successful target
+
+TARGETID	T83145
+UNIPROID	NFKB1_HUMAN; NFKB2_HUMAN; TF65_HUMAN; RELB_HUMAN; REL_HUMAN
+TARGNAME	Nuclear factor NF-kappa-B (NFKB)
+TARGTYPE	Successful target
+
+TARGETID	T83193
+UNIPROID	TRPV1_HUMAN
+TARGNAME	Transient receptor potential cation channel V1 (TRPV1)
+TARGTYPE	Successful target
+
+TARGETID	T83369
+UNIPROID	FA9_HUMAN
+TARGNAME	Coagulation factor IX (F9)
+TARGTYPE	Successful target
+
+TARGETID	T83386
+UNIPROID	FOLR1_HUMAN
+TARGNAME	Folate receptor alpha (FOLR1)
+TARGTYPE	Successful target
+
+TARGETID	T83611
+UNIPROID	2B11_HUMAN
+TARGNAME	MHC class II antigen DRB1*1 (HLA-DRB1)
+TARGTYPE	Successful target
+
+TARGETID	T83717
+UNIPROID	NOUNIPROTAC
+TARGNAME	Neuronal acetylcholine receptor alpha (NACHRA)
+TARGTYPE	Successful target
+
+TARGETID	T83813
+UNIPROID	5HT2C_HUMAN
+TARGNAME	5-HT 2C receptor (HTR2C)
+TARGTYPE	Successful target
+
+TARGETID	T83875
+UNIPROID	AOFA_HUMAN
+TARGNAME	Monoamine oxidase type A (MAO-A)
+TARGTYPE	Successful target
+
+TARGETID	T84040
+UNIPROID	TRPA1_HUMAN
+TARGNAME	Transformation-sensitive protein p120 (TRPA1)
+TARGTYPE	Successful target
+
+TARGETID	T84117
+UNIPROID	5HT1E_HUMAN
+TARGNAME	5-HT 1E receptor (HTR1E)
+TARGTYPE	Successful target
+
+TARGETID	T84160
+UNIPROID	NOUNIPROTAC
+TARGNAME	5-HT 3 receptor (5HT3R)
+TARGTYPE	Successful target
+
+TARGETID	T84173
+UNIPROID	GLCM_HUMAN
+TARGNAME	Glucosylceramidase (GBA)
+TARGTYPE	Successful target
+
+TARGETID	T84316
+UNIPROID	CA2D1_HUMAN
+TARGNAME	Voltage-gated calcium channel alpha-2/delta-1 (CACNA2D1)
+TARGTYPE	Successful target
+
+TARGETID	T84457
+UNIPROID	NOUNIPROTAC
+TARGNAME	GABA(A) receptor (GABAR)
+TARGTYPE	Successful target
+
+TARGETID	T84486
+UNIPROID	OXYR_HUMAN
+TARGNAME	Oxytocin receptor (OTR)
+TARGTYPE	Successful target
+
+TARGETID	T84575
+UNIPROID	NOUNIPROTAC
+TARGNAME	Samarium (SAM)
+TARGTYPE	Successful target
+
+TARGETID	T84581
+UNIPROID	TRXR1_HUMAN
+TARGNAME	Cytoplasmic thioredoxin reductase (TXNRD1)
+TARGTYPE	Successful target
+
+TARGETID	T84621
+UNIPROID	C11B1_HUMAN
+TARGNAME	Steroid 11-beta-hydroxylase (CYP11B1)
+TARGTYPE	Successful target
+
+TARGETID	T84631
+UNIPROID	FA10_HUMAN
+TARGNAME	Coagulation factor Xa (F10)
+TARGTYPE	Successful target
+
+TARGETID	T84665
+UNIPROID	NOUNIPROTAC
+TARGNAME	Tromboxane A2 synthesis (TA2 synth)
+TARGTYPE	Successful target
+
+TARGETID	T84703
+UNIPROID	NTRK2_HUMAN
+TARGNAME	BDNF/NT-3 growth factors receptor (TrkB)
+TARGTYPE	Successful target
+
+TARGETID	T84726
+UNIPROID	NOUNIPROTAC
+TARGNAME	Rho-associated protein kinase (ROCK)
+TARGTYPE	Successful target
+
+TARGETID	T84886
+UNIPROID	S12A3_HUMAN
+TARGNAME	Solute carrier family 12 member 3 (SLC12A3)
+TARGTYPE	Successful target
+
+TARGETID	T84972
+UNIPROID	EFG_STRZJ
+TARGNAME	Streptococcus Elongation factor G (Stre-coc fusA)
+TARGTYPE	Successful target
+
+TARGETID	T85435
+UNIPROID	INSR_HUMAN
+TARGNAME	Insulin receptor (INSR)
+TARGTYPE	Successful target
+
+TARGETID	T85529
+UNIPROID	CD28_HUMAN
+TARGNAME	T-cell-specific surface glycoprotein CD28 (CD28)
+TARGTYPE	Successful target
+
+TARGETID	T85605
+UNIPROID	NOUNIPROTAC
+TARGNAME	5-HT receptor (5HTR)
+TARGTYPE	Successful target
+
+TARGETID	T85733
+UNIPROID	TOP2B_HUMAN
+TARGNAME	DNA topoisomerase II beta (TOP2B)
+TARGTYPE	Successful target
+
+TARGETID	T85799
+UNIPROID	CDK4_HUMAN
+TARGNAME	Cyclin-dependent kinase 4 (CDK4)
+TARGTYPE	Successful target
+
+TARGETID	T85857
+UNIPROID	TSLP_HUMAN
+TARGNAME	Thymic stromal lymphopoietin (TSLP)
+TARGTYPE	Successful target
+
+TARGETID	T85889
+UNIPROID	NOUNIPROTAC
+TARGNAME	Phosphate (PHO)
+TARGTYPE	Successful target
+
+TARGETID	T85943
+UNIPROID	SRC_HUMAN
+TARGNAME	Proto-oncogene c-Src (SRC)
+TARGTYPE	Successful target
+
+TARGETID	T86041
+UNIPROID	HEM1_HUMAN
+TARGNAME	ALAS1 messenger RNA (ALAS1 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T86057
+UNIPROID	S22AC_HUMAN
+TARGNAME	Urate anion exchanger 1 (URAT1)
+TARGTYPE	Successful target
+
+TARGETID	T86115
+UNIPROID	APOC3_HUMAN
+TARGNAME	ApoC-III messenger RNA (APOC3 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T86462
+UNIPROID	TTHY_HUMAN
+TARGNAME	Transthyretin (TTR)
+TARGTYPE	Successful target
+
+TARGETID	T86528
+UNIPROID	FPPS_HUMAN
+TARGNAME	Geranyltranstransferase (FDPS)
+TARGTYPE	Successful target
+
+TARGETID	T86591
+UNIPROID	PPARA_HUMAN
+TARGNAME	Peroxisome proliferator-activated receptor alpha (PPARA)
+TARGTYPE	Successful target
+
+TARGETID	T86652
+UNIPROID	PCSK9_HUMAN
+TARGNAME	PCSK9 messenger RNA (PCSK9 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T86671
+UNIPROID	NOUNIPROTAC
+TARGNAME	Orexin receptor (HCRTR)
+TARGTYPE	Successful target
+
+TARGETID	T86674
+UNIPROID	HEMA_I34A1
+TARGNAME	Influenza Hemagglutinin (Influ HA)
+TARGTYPE	Successful target
+
+TARGETID	T86679
+UNIPROID	AA2BR_HUMAN
+TARGNAME	Adenosine A2b receptor (ADORA2B)
+TARGTYPE	Successful target
+
+TARGETID	T86836
+UNIPROID	NOUNIPROTAC
+TARGNAME	Human Deoxyribonucleic acid (hDNA)
+TARGTYPE	Successful target
+
+TARGETID	T87023
+UNIPROID	PTAFR_HUMAN
+TARGNAME	Platelet-activating factor receptor (PTAFR)
+TARGTYPE	Successful target
+
+TARGETID	T87024
+UNIPROID	A4_HUMAN
+TARGNAME	Amyloid beta A4 protein (APP)
+TARGTYPE	Successful target
+
+TARGETID	T87075
+UNIPROID	CD3E_HUMAN
+TARGNAME	T-cell surface glycoprotein CD3 epsilon (CD3E)
+TARGTYPE	Successful target
+
+TARGETID	T87119
+UNIPROID	NOUNIPROTAC
+TARGNAME	Fungal Cell membrane (Fung CM)
+TARGTYPE	Successful target
+
+TARGETID	T87467
+UNIPROID	NOUNIPROTAC
+TARGNAME	Folate receptor (FOLR)
+TARGTYPE	Successful target
+
+TARGETID	T87670
+UNIPROID	GPR55_HUMAN
+TARGNAME	G-protein coupled receptor 55 (GPR55)
+TARGTYPE	Successful target
+
+TARGETID	T87975
+UNIPROID	NOUNIPROTAC
+TARGNAME	Fungal Proton pump (FPPCM)
+TARGTYPE	Successful target
+
+TARGETID	T88023
+UNIPROID	TNR8_HUMAN
+TARGNAME	Lymphocyte activation antigen CD30 (TNFRSF8)
+TARGTYPE	Successful target
+
+TARGETID	T88182
+UNIPROID	VKGC_HUMAN
+TARGNAME	Vitamin K-dependent gamma-carboxylase (GGCX)
+TARGTYPE	Successful target
+
+TARGETID	T88185
+UNIPROID	HCAR2_HUMAN
+TARGNAME	Nicotinic acid receptor (HCAR2)
+TARGTYPE	Successful target
+
+TARGETID	T88240
+UNIPROID	DHPS_ECOLI
+TARGNAME	Bacterial Dihydropteroate synthetase (Bact folP)
+TARGTYPE	Successful target
+
+TARGETID	T88338
+UNIPROID	NOUNIPROTAC
+TARGNAME	Bacterial 23S ribosomal RNA (Bact 23S rRNA)
+TARGTYPE	Successful target
+
+TARGETID	T88452
+UNIPROID	CBG_HUMAN
+TARGNAME	Corticosteroid-binding globulin (SERPINA6)
+TARGTYPE	Successful target
+
+TARGETID	T88505
+UNIPROID	NF2L2_HUMAN
+TARGNAME	Nuclear factor erythroid 2-related factor 2 (Nrf2)
+TARGTYPE	Successful target
+
+TARGETID	T88637
+UNIPROID	NOUNIPROTAC
+TARGNAME	Myosin (MYO)
+TARGTYPE	Successful target
+
+TARGETID	T88887
+UNIPROID	RPOB_STAA8
+TARGNAME	Staphylococcus Plastid RNA polymerase beta (Stap-coc rpoB)
+TARGTYPE	Successful target
+
+TARGETID	T88975
+UNIPROID	PDE3A_HUMAN
+TARGNAME	Phosphodiesterase 3A (PDE3A)
+TARGTYPE	Successful target
+
+TARGETID	T89034
+UNIPROID	PLMN_HUMAN
+TARGNAME	Plasminogen (PLG)
+TARGTYPE	Successful target
+
+TARGETID	T89041
+UNIPROID	CP17A_HUMAN
+TARGNAME	Steroid 17-alpha-monooxygenase (S17AH)
+TARGTYPE	Successful target
+
+TARGETID	T89086
+UNIPROID	NOUNIPROTAC
+TARGNAME	Toxic reactive metabolite (TRM)
+TARGTYPE	Successful target
+
+TARGETID	T89360
+UNIPROID	IMDH2_HUMAN
+TARGNAME	Inosine-5'-monophosphate dehydrogenase 2 (IMPDH2)
+TARGTYPE	Successful target
+
+TARGETID	T89361
+UNIPROID	CDK6_HUMAN
+TARGNAME	Cyclin-dependent kinase 6 (CDK6)
+TARGTYPE	Successful target
+
+TARGETID	T89515
+UNIPROID	DEFM_HUMAN
+TARGNAME	Polypeptide deformylase (PDF)
+TARGTYPE	Successful target
+
+TARGETID	T89529
+UNIPROID	PTN1_HUMAN
+TARGNAME	PTPN1 messenger RNA (PTPN1 mRNA)
+TARGTYPE	Successful target
+
+TARGETID	T89534
+UNIPROID	ESR1_HUMAN
+TARGNAME	Estrogen receptor (ESR)
+TARGTYPE	Successful target
+
+TARGETID	T89697
+UNIPROID	I23O1_HUMAN
+TARGNAME	Indoleamine 2,3-dioxygenase 1 (IDO1)
+TARGTYPE	Successful target
+
+TARGETID	T89883
+UNIPROID	NOUNIPROTAC
+TARGNAME	Ryanodine receptor (RYR)
+TARGTYPE	Successful target
+
+TARGETID	T89950
+UNIPROID	NOUNIPROTAC
+TARGNAME	Calcitonin gene-related peptide (CALC)
+TARGTYPE	Successful target
+
+TARGETID	T90695
+UNIPROID	NOUNIPROTAC
+TARGNAME	PI3K/AKT/mTOR pathway (PAm pathway)
+TARGTYPE	Successful target
+
+TARGETID	T90828
+UNIPROID	IL5RA_HUMAN
+TARGNAME	Interleukin 5 receptor alpha (IL5RA)
+TARGTYPE	Successful target
+
+TARGETID	T90848
+UNIPROID	NOUNIPROTAC
+TARGNAME	HGF/Met signaling pathway (HGF/Met pathway)
+TARGTYPE	Successful target
+
+TARGETID	T91331
+UNIPROID	FGFR3_HUMAN
+TARGNAME	Fibroblast growth factor receptor 3 (FGFR3)
+TARGTYPE	Successful target
+
+TARGETID	T91442
+UNIPROID	DPOL_VZVD
+TARGNAME	Varicella-zoster virus DNA polymerase (VZV ORF28)
+TARGTYPE	Successful target
+
+TARGETID	T91480
+UNIPROID	ABCC8_HUMAN
+TARGNAME	ATP-binding cassette transporter C8 (ABCC8)
+TARGTYPE	Successful target
+
+TARGETID	T92057
+UNIPROID	ERBB4_HUMAN
+TARGNAME	Erbb4 tyrosine kinase receptor (Erbb-4)
+TARGTYPE	Successful target
+
+TARGETID	T92072
+UNIPROID	AA1R_HUMAN
+TARGNAME	Adenosine A1 receptor (ADORA1)
+TARGTYPE	Successful target
+
+TARGETID	T92076
+UNIPROID	CASR_HUMAN
+TARGNAME	Extracellular calcium-sensing receptor (CASR)
+TARGTYPE	Successful target
+
+TARGETID	T92078
+UNIPROID	DPYL2_HUMAN
+TARGNAME	Dihydropyrimidinase related protein 2 (DPYSL2)
+TARGTYPE	Successful target
+
+TARGETID	T92308
+UNIPROID	NOUNIPROTAC
+TARGNAME	DNA [cytosine-5]-methyltransferase (DNMT)
+TARGTYPE	Successful target
+
+TARGETID	T92403
+UNIPROID	SL9A3_HUMAN
+TARGNAME	Sodium/hydrogen exchanger 3 (SLC9A3)
+TARGTYPE	Successful target
+
+TARGETID	T92494
+UNIPROID	EF2K_HUMAN
+TARGNAME	Eukaryotic elongation factor 2 kinase (eEF-2K)
+TARGTYPE	Successful target
+
+TARGETID	T92609
+UNIPROID	ADA1A_HUMAN
+TARGNAME	Adrenergic receptor alpha-1A (ADRA1A)
+TARGTYPE	Successful target
+
+TARGETID	T92687
+UNIPROID	ATP4A_HUMAN; ATP4B_HUMAN
+TARGNAME	Gastric H(+)/K(+) ATPase (Proton pump)
+TARGTYPE	Successful target
+
+TARGETID	T92777
+UNIPROID	MGA_HUMAN
+TARGNAME	Intestinal maltase-glucoamylase (MGAM)
+TARGTYPE	Successful target
+
+TARGETID	T92828
+UNIPROID	EDNRB_HUMAN
+TARGNAME	Endothelin B receptor (EDNRB)
+TARGTYPE	Successful target
+
+TARGETID	T93344
+UNIPROID	ERG1_HUMAN
+TARGNAME	Squalene monooxygenase (SQLE)
+TARGTYPE	Successful target
+
+TARGETID	T93440
+UNIPROID	IL6RA_HUMAN; IL6RB_HUMAN
+TARGNAME	Interleukin 6 receptor (IL6R)
+TARGTYPE	Successful target
+
+TARGETID	T93662
+UNIPROID	NOUNIPROTAC
+TARGNAME	Hyaluronidase (HYAL)
+TARGTYPE	Successful target
+
+TARGETID	T93783
+UNIPROID	TAT_HV1H2
+TARGNAME	Human immunodeficiency virus Tat protein (HIV tat)
+TARGTYPE	Successful target
+
+TARGETID	T93788
+UNIPROID	GP119_HUMAN
+TARGNAME	Glucose-dependent insulinotropic receptor (GPR119)
+TARGTYPE	Successful target
+
+TARGETID	T93878
+UNIPROID	S12A1_HUMAN
+TARGNAME	Solute carrier family 12 member 1 (SLC12A1)
+TARGTYPE	Successful target
+
+TARGETID	T93955
+UNIPROID	MTLD_ASPFU
+TARGNAME	Aspergillus Mannitol-1-phosphate 5-dehydrogenase (Asperg mpdA)
+TARGTYPE	Successful target
+
+TARGETID	T94033
+UNIPROID	THRB_HUMAN
+TARGNAME	Coagulation factor IIa (F2)
+TARGTYPE	Successful target
+
+TARGETID	T94309
+UNIPROID	LIPP_HUMAN
+TARGNAME	Pancreatic triacylglycerol lipase (PNLIP)
+TARGTYPE	Successful target
+
+TARGETID	T94429
+UNIPROID	TRM1_HCMVA
+TARGNAME	Cytomegalovirus Terminase UL56 (CMV TRM1)
+TARGTYPE	Successful target
+
+TARGETID	T94444
+UNIPROID	AOXA_HUMAN
+TARGNAME	Aldehyde oxidase (AOX1)
+TARGTYPE	Successful target
+
+TARGETID	T94692
+UNIPROID	LDLR_HUMAN
+TARGNAME	Low-density lipoprotein receptor (LDL-R)
+TARGTYPE	Successful target
+
+TARGETID	T94718
+UNIPROID	LAG3_HUMAN
+TARGNAME	Lymphocyte activation gene 3 protein (LAG3)
+TARGTYPE	Successful target
+
+TARGETID	T95139
+UNIPROID	NOUNIPROTAC
+TARGNAME	Cysteine protease (CYP)
+TARGTYPE	Successful target
+
+TARGETID	T95212
+UNIPROID	NOUNIPROTAC
+TARGNAME	Streptococcus Diphtheria protein (Stre DIPP)
+TARGTYPE	Successful target
+
+TARGETID	T95339
+UNIPROID	NOUNIPROTAC
+TARGNAME	Beta-hematin formation (BHF)
+TARGTYPE	Successful target
+
+TARGETID	T95385
+UNIPROID	IL12B_HUMAN
+TARGNAME	Interleukin-12 beta (IL12B)
+TARGTYPE	Successful target
+
+TARGETID	T95400
+UNIPROID	FCERG_HUMAN
+TARGNAME	Immunoglobulin epsilon Fc receptor gamma (FCERG)
+TARGTYPE	Successful target
+
+TARGETID	T95479
+UNIPROID	SMS_HUMAN
+TARGNAME	Somatostatin (SST)
+TARGTYPE	Successful target
+
+TARGETID	T95498
+UNIPROID	NOUNIPROTAC
+TARGNAME	NFE2-related factor 2 pathway (Nrf2 pathway)
+TARGTYPE	Successful target
+
+TARGETID	T95558
+UNIPROID	DGAT2_HUMAN
+TARGNAME	Diacylglycerol O-acyltransferase 2 (DGAT2)
+TARGTYPE	Successful target
+
+TARGETID	T95678
+UNIPROID	M2_I34A1
+TARGNAME	Influenza M2 protein (Influ M)
+TARGTYPE	Successful target
+
+TARGETID	T95913
+UNIPROID	PK3CG_HUMAN
+TARGNAME	PI3-kinase gamma (PIK3CG)
+TARGTYPE	Successful target
+
+TARGETID	T96079
+UNIPROID	CXCR4_HUMAN
+TARGNAME	C-X-C chemokine receptor type 4 (CXCR4)
+TARGTYPE	Successful target
+
+TARGETID	T96144
+UNIPROID	TOP2A_HUMAN; TOP2B_HUMAN
+TARGNAME	DNA topoisomerase II (TOP2)
+TARGTYPE	Successful target
+
+TARGETID	T96215
+UNIPROID	Q9NGT0_PLAFA
+TARGNAME	Plasmodium Glutamate dehydrogenase (Malaria gdh)
+TARGTYPE	Successful target
+
+TARGETID	T96235
+UNIPROID	GRIA4_HUMAN
+TARGNAME	Glutamate receptor AMPA 4 (GRIA4)
+TARGTYPE	Successful target
+
+TARGETID	T96413
+UNIPROID	BGLR_HUMAN
+TARGNAME	Beta-glucuronidase (GUSB)
+TARGTYPE	Successful target
+
+TARGETID	T96721
+UNIPROID	VEGFA_HUMAN; VEGFB_HUMAN; VEGFC_HUMAN; VEGFD_HUMAN
+TARGNAME	Vascular endothelial growth factor (VEGF)
+TARGTYPE	Successful target
+
+TARGETID	T96845
+UNIPROID	IL37_HUMAN
+TARGNAME	Interleukin-37 (IL37)
+TARGTYPE	Successful target
+
+TARGETID	T96914
+UNIPROID	Q8I0X3_PLAF7
+TARGNAME	Plasmodium DNA gyrase (Malaria gyrase)
+TARGTYPE	Successful target
+
+TARGETID	T97035
+UNIPROID	TYRO_HUMAN
+TARGNAME	Tyrosinase (TYR)
+TARGTYPE	Successful target
+
+TARGETID	T97071
+UNIPROID	FOLH1_HUMAN
+TARGNAME	Glutamate carboxypeptidase II (GCPII)
+TARGTYPE	Successful target
+
+TARGETID	T97174
+UNIPROID	MPRD_HUMAN
+TARGNAME	Mannose-6-phosphate receptor (M6PR)
+TARGTYPE	Successful target
+
+TARGETID	T97257
+UNIPROID	TGFB1_HUMAN
+TARGNAME	Transforming growth factor beta 1 (TGFB1)
+TARGTYPE	Successful target
+
+TARGETID	T97587
+UNIPROID	ITA4_HUMAN
+TARGNAME	Integrin alpha-4 (ITGA4)
+TARGTYPE	Successful target
+
+TARGETID	T97613
+UNIPROID	MTR1A_HUMAN
+TARGNAME	Melatonin receptor type 1A (MTNR1A)
+TARGTYPE	Successful target
+
+TARGETID	T97617
+UNIPROID	NOUNIPROTAC
+TARGNAME	Sphingosine-1 phosphate receptor (S1PR)
+TARGTYPE	Successful target
+
+TARGETID	T97621
+UNIPROID	CFTR_HUMAN
+TARGNAME	cAMP-dependent chloride channel F508 deletion (CFTR del F508)
+TARGTYPE	Successful target
+
+TARGETID	T97713
+UNIPROID	PUR1_HUMAN
+TARGNAME	Amidophosphoribosyltransferase (PPAT)
+TARGTYPE	Successful target
+
+TARGETID	T97947
+UNIPROID	GUC2C_HUMAN
+TARGNAME	Guanylyl cyclase C (GUCY2C)
+TARGTYPE	Successful target
+
+TARGETID	T98052
+UNIPROID	SLAF7_HUMAN
+TARGNAME	SLAM family member 7 SLAMF7 (CS1)
+TARGTYPE	Successful target
+
+TARGETID	T98157
+UNIPROID	ARSA_HUMAN
+TARGNAME	Cerebroside-sulfatase (ARSA)
+TARGTYPE	Successful target
+
+TARGETID	T98708
+UNIPROID	PTHY_HUMAN
+TARGNAME	Parathyroid hormone (PTH)
+TARGTYPE	Successful target
+
+TARGETID	T98913
+UNIPROID	CSF3R_HUMAN
+TARGNAME	Granulocyte colony-stimulating factor receptor (G-CSF-R)
+TARGTYPE	Successful target
+
+TARGETID	T98917
+UNIPROID	MRM2_HUMAN
+TARGNAME	Mitochondrial rRNA methyltransferase 2 (MRM2)
+TARGTYPE	Successful target
+
+TARGETID	T98933
+UNIPROID	THB_HUMAN
+TARGNAME	Thyroid hormone receptor beta (THRB)
+TARGTYPE	Successful target
+
+TARGETID	T99031
+UNIPROID	NOUNIPROTAC
+TARGNAME	ERK activator kinase (MEK)
+TARGTYPE	Successful target
+
+TARGETID	T99089
+UNIPROID	BRAF_HUMAN
+TARGNAME	Serine/threonine-protein kinase B-raf (BRAF)
+TARGTYPE	Successful target
+
+TARGETID	T99189
+UNIPROID	NTCP_HUMAN
+TARGNAME	Sodium/bile acid cotransporter (SLC10A1)
+TARGTYPE	Successful target
+
+TARGETID	T99524
+UNIPROID	TAAR1_HUMAN
+TARGNAME	Trace amine-associated receptor-1 (TAAR1)
+TARGTYPE	Successful target
+
+TARGETID	T99616
+UNIPROID	TYTR_TRYBB
+TARGNAME	Trypanosoma Trypanothione reductase (Trypano TPR)
+TARGTYPE	Successful target
+
+TARGETID	T99641
+UNIPROID	AL1A1_HUMAN; ALDH2_HUMAN; AL1B1_HUMAN
+TARGNAME	Acetaldehyde dehydrogenase (ALDH)
+TARGTYPE	Successful target
+
+TARGETID	T99727
+UNIPROID	NOUNIPROTAC
+TARGNAME	Hyperpolarization cyclic nucleotide-gated channel (HCN)
+TARGTYPE	Successful target
+
+TARGETID	T99799
+UNIPROID	CHLE_HUMAN
+TARGNAME	Cholinesterase (BCHE)
+TARGTYPE	Successful target
+
+TARGETID	T99840
+UNIPROID	APH1A_HUMAN; APH1B_HUMAN; PEN2_HUMAN; NICA_HUMAN; PSN1_HUMAN
+TARGNAME	Gamma-secretase (GS)
+TARGTYPE	Successful target
+
+TARGETID	T99905
+UNIPROID	NOUNIPROTAC
+TARGNAME	Immunoglobulin G (IgG)
+TARGTYPE	Successful target
+
+TARGETID	T99948
+UNIPROID	PD1L1_HUMAN
+TARGNAME	Programmed cell death 1 ligand 1 (PD-L1)
+TARGTYPE	Successful target
+
+TARGETID	T99954
+UNIPROID	PI2R_HUMAN
+TARGNAME	Prostacyclin receptor (PTGIR)
+TARGTYPE	Successful target
+
+TARGETID	T99989
+UNIPROID	KC1E_HUMAN
+TARGNAME	Casein kinase I epsilon (CSNK1E)
+TARGTYPE	Successful target

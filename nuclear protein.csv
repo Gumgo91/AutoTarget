@@ -1,0 +1,41 @@
+,id,Entry Name,Protein names,Gene Names
+0,ENSP00000383949,NH2L1_HUMAN,"NHP2-like protein 1 (High mobility group-like nuclear protein 2 homolog 1) (OTK27) (SNU13 homolog) (hSNU13) (U4/U6.U5 small nuclear ribonucleoprotein SNU13) (U4/U6.U5 tri-snRNP 15.5 kDa protein) [Cleaved into: NHP2-like protein 1, N-terminally processed]",SNU13 NHP2L1
+1,ENSP00000446215,RAN_HUMAN,GTP-binding nuclear protein Ran (EC 3.6.5.-) (Androgen receptor-associated protein 24) (GTPase Ran) (Ras-like protein TC4) (Ras-related nuclear protein),RAN ARA24 OK/SW-cl.81
+2,ENSP00000362441,ATRX_HUMAN,Transcriptional regulator ATRX (EC 3.6.4.12) (ATP-dependent helicase ATRX) (X-linked helicase II) (X-linked nuclear protein) (XNP) (Znf-HX),ATRX RAD54L XH2
+3,ENSP00000365439,HNRPK_HUMAN,Heterogeneous nuclear ribonucleoprotein K (hnRNP K) (Transformation up-regulated nuclear protein) (TUNP),HNRNPK HNRPK
+4,ENSP00000483484,NSA2_HUMAN,Ribosome biogenesis protein NSA2 homolog (Hairy cell leukemia protein 1) (TGF-beta-inducible nuclear protein 1),NSA2 TINP1 HUSSY-29
+5,ENSP00000356448,TPR_HUMAN,Nucleoprotein TPR (Megator) (NPC-associated intranuclear protein) (Translocated promoter region protein),TPR
+6,ENSP00000216727,PABP2_HUMAN,Polyadenylate-binding protein 2 (PABP-2) (Poly(A)-binding protein 2) (Nuclear poly(A)-binding protein 1) (Poly(A)-binding protein II) (PABII) (Polyadenylate-binding nuclear protein 1),PABPN1 PAB2 PABP2
+7,ENSP00000386134,NGDN_HUMAN,Neuroguidin (Centromere accumulated nuclear protein 1) (CANu1) (EIF4E-binding protein),NGDN C14orf120
+8,ENSP00000276079,NONO_HUMAN,"Non-POU domain-containing octamer-binding protein (NonO protein) (54 kDa nuclear RNA- and DNA-binding protein) (p54(nrb)) (p54nrb) (55 kDa nuclear protein) (NMT55) (DNA-binding p52/p100 complex, 52 kDa subunit)",NONO NRB54
+9,ENSP00000417464,RRP1_HUMAN,Ribosomal RNA processing protein 1 homolog A (Novel nuclear protein 1) (NNP-1) (Nucleolar protein Nop52) (RRP1-like protein),RRP1 D21S2056E NNP1 NOP52 RRP1A
+10,ENSP00000364813,LSM2_HUMAN,U6 snRNA-associated Sm-like protein LSm2 (Protein G7b) (Small nuclear ribonuclear protein D homolog) (snRNP core Sm-like protein Sm-x5),LSM2 C6orf28 G7B
+11,ENSP00000359988,SRS11_HUMAN,"Serine/arginine-rich splicing factor 11 (Arginine-rich 54 kDa nuclear protein) (p54) (Splicing factor, arginine/serine-rich 11)",SRSF11 SFRS11
+12,ENSP00000265560,UBP4_HUMAN,Ubiquitin carboxyl-terminal hydrolase 4 (EC 3.4.19.12) (Deubiquitinating enzyme 4) (Ubiquitin thioesterase 4) (Ubiquitin-specific-processing protease 4) (Ubiquitous nuclear protein homolog),USP4 UNP UNPH
+13,ENSP00000469647,TTP_HUMAN,mRNA decay activator protein ZFP36 (G0/G1 switch regulatory protein 24) (Growth factor-inducible nuclear protein NUP475) (Tristetraprolin) (Zinc finger protein 36) (Zfp-36),ZFP36 G0S24 NUP475 RNF162A TIS11A TTP
+14,ENSP00000360762,ANKR1_HUMAN,Ankyrin repeat domain-containing protein 1 (Cardiac ankyrin repeat protein) (Cytokine-inducible gene C-193 protein) (Cytokine-inducible nuclear protein),ANKRD1 C193 CARP HA1A2
+15,ENSP00000325290,HASP_HUMAN,Serine/threonine-protein kinase haspin (EC 2.7.11.1) (Germ cell-specific gene 2 protein) (H-haspin) (Haploid germ cell-specific nuclear protein kinase),HASPIN GSG2
+16,ENSP00000267415,TINF2_HUMAN,TERF1-interacting nuclear factor 2 (TRF1-interacting nuclear protein 2),TINF2 TIN2
+17,ENSP00000323065,G45IP_HUMAN,"Growth arrest and DNA damage-inducible proteins-interacting protein 1 (39S ribosomal protein L59, mitochondrial) (MRP-L59) (CKII beta-associating protein) (CR6-interacting factor 1) (CRIF1) (Mitochondrial large ribosomal subunit protein mL64) (Papillomavirus L2-interacting nuclear protein 1) (PLINP) (PLINP-1) (p53-responsive gene 6 protein)",GADD45GIP1 MRPL59 PLINP1 PRG6
+18,ENSP00000417864,AN32A_HUMAN,Acidic leucine-rich nuclear phosphoprotein 32 family member A (Acidic nuclear phosphoprotein pp32) (pp32) (Leucine-rich acidic nuclear protein) (LANP) (Mapmodulin) (Potent heat-stable protein phosphatase 2A inhibitor I1PP2A) (Putative HLA-DR-associated protein I) (PHAPI),ANP32A C15orf1 LANP MAPM PHAP1
+19,ENSP00000218224,PQBP1_HUMAN,Polyglutamine-binding protein 1 (PQBP-1) (38 kDa nuclear protein containing a WW domain) (Npw38) (Polyglutamine tract-binding protein 1),PQBP1 NPW38 JM26
+20,ENSP00000380820,GANP_HUMAN,Germinal-center associated nuclear protein (GANP) (EC 2.3.1.48) (80 kDa MCM3-associated protein) (MCM3 acetylating protein) (MCM3AP) (EC 2.3.1.-) (MCM3 acetyltransferase),MCM3AP GANP KIAA0572 MAP80
+21,ENSP00000304226,HIPK3_HUMAN,Homeodomain-interacting protein kinase 3 (EC 2.7.11.1) (Androgen receptor-interacting nuclear protein kinase) (ANPK) (Fas-interacting serine/threonine-protein kinase) (FIST) (Homolog of protein kinase YAK1),HIPK3 DYRK6 FIST3 PKY
+22,ENSP00000403681,PRM2_HUMAN,Protamine-2 (Sperm histone P2) (Sperm protamine P2) [Cleaved into: Basic nuclear protein HPI1; Basic nuclear protein HPI2; Basic nuclear protein HPS1; Basic nuclear protein HPS2; Sperm histone HP4 (Sperm protamine P4); Sperm histone HP2 (Sperm protamine P2) (P2'); Sperm histone HP3 (P2'') (Sperm protamine P3)],PRM2
+23,ENSP00000386834,AFF3_HUMAN,AF4/FMR2 family member 3 (Lymphoid nuclear protein related to AF4) (Protein LAF-4),AFF3 LAF4
+24,ENSP00000379894,UBN1_HUMAN,Ubinuclein-1 (HIRA-binding protein) (Protein VT4) (Ubiquitously expressed nuclear protein),UBN1
+25,ENSP00000344215,T53I1_HUMAN,Tumor protein p53-inducible nuclear protein 1 (Stress-induced protein) (p53-dependent damage-inducible nuclear protein 1) (p53DINP1),TP53INP1 P53DINP1 SIP
+26,ENSP00000318258,CSRN3_HUMAN,Cysteine/serine-rich nuclear protein 3 (CSRNP-3) (Protein FAM130A2) (TGF-beta-induced apoptosis protein 2) (TAIP-2),CSRNP3 FAM130A2 TAIP2
+27,ENSP00000376902,BANP_HUMAN,Protein BANP (BEN domain-containing protein 1) (Btg3-associated nuclear protein) (Scaffold/matrix-associated region-1-binding protein),BANP BEND1 SMAR1
+28,ENSP00000265260,PCNP_HUMAN,PEST proteolytic signal-containing nuclear protein (PCNP) (PEST-containing nuclear protein),PCNP
+29,ENSP00000310057,FA53A_HUMAN,Protein FAM53A (Dorsal neural-tube nuclear protein),FAM53A
+30,ENSP00000341657,THYN1_HUMAN,Thymocyte nuclear protein 1 (Thymocyte protein Thy28),THYN1 THY28 HSPC144 MDS012 My0054
+31,ENSP00000266671,PHLA1_HUMAN,Pleckstrin homology-like domain family A member 1 (Apoptosis-associated nuclear protein) (Proline- and glutamine-rich protein) (PQ-rich protein) (PQR protein) (Proline- and histidine-rich protein) (T-cell death-associated gene 51 protein),PHLDA1 PHRIP TDAG51
+32,ENSP00000273153,CSRN1_HUMAN,Cysteine/serine-rich nuclear protein 1 (CSRNP-1) (Axin-1 up-regulated gene 1 protein) (Protein URAX1) (TGF-beta-induced apoptosis protein 3) (TAIP-3),CSRNP1 AXUD1 TAIP3
+33,ENSP00000387882,TAC2N_HUMAN,Tandem C2 domains nuclear protein (Membrane targeting tandem C2 domain-containing protein 1) (Tandem C2 protein in nucleus) (Tac2-N),TC2N C14orf47 MTAC2D1
+34,ENSP00000363943,T53I2_HUMAN,Tumor protein p53-inducible nuclear protein 2 (Diabetes and obesity-regulated gene) (p53-inducible protein U) (PIG-U),TP53INP2 C20orf110 DOR PINH
+35,ENSP00000410910,MSTN1_HUMAN,Musculoskeletal embryonic nuclear protein 1,MUSTN1
+36,ENSP00000334805,H1FNT_HUMAN,Testis-specific H1 histone (Haploid germ cell-specific nuclear protein 1) (Histone H1.7) (Histone H1t2),H1-7 H1FNT HANP1
+37,ENSP00000429216,TRNP1_HUMAN,TMF-regulated nuclear protein 1,TRNP1 C1orf225 TRNP
+38,ENSP00000290294,PRAC1_HUMAN,"Small nuclear protein PRAC1 (Prostate cancer susceptibility candidate protein 1) (Prostate, rectum and colon expressed gene protein)",PRAC1 C17orf92 PRAC
+39,ENSP00000421871,DCNP1_HUMAN,Dendritic cell nuclear protein 1 (Dendritic cell nuclear protein-1) (Dendritic cell-associated nuclear protein),DCANP1 C5orf20 DCNP1

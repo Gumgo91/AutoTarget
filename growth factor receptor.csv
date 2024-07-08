@@ -1,0 +1,33 @@
+,id,Entry Name,Protein names,Gene Names
+0,ENSP00000275493,EGFR_HUMAN,Epidermal growth factor receptor (EC 2.7.10.1) (Proto-oncogene c-ErbB-1) (Receptor tyrosine-protein kinase erbB-1),EGFR ERBB ERBB1 HER1
+1,ENSP00000288135,KIT_HUMAN,Mast/stem cell growth factor receptor Kit (SCFR) (EC 2.7.10.1) (Piebald trait protein) (PBT) (Proto-oncogene c-Kit) (Tyrosine-protein kinase Kit) (p145 c-kit) (v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog) (CD antigen CD117),KIT SCFR
+2,ENSP00000263923,VGFR2_HUMAN,Vascular endothelial growth factor receptor 2 (VEGFR-2) (EC 2.7.10.1) (Fetal liver kinase 1) (FLK-1) (Kinase insert domain receptor) (KDR) (Protein-tyrosine kinase receptor flk-1) (CD antigen CD309),KDR FLK1 VEGFR2
+3,ENSP00000431418,NTRK1_HUMAN,High affinity nerve growth factor receptor (EC 2.7.10.1) (Neurotrophic tyrosine kinase receptor type 1) (TRK1-transforming tyrosine kinase protein) (Tropomyosin-related kinase A) (Tyrosine kinase receptor) (Tyrosine kinase receptor A) (Trk-A) (gp140trk) (p140-TrkA),NTRK1 MTC TRK TRKA
+4,ENSP00000317272,MET_HUMAN,Hepatocyte growth factor receptor (HGF receptor) (EC 2.7.10.1) (HGF/SF receptor) (Proto-oncogene c-Met) (Scatter factor receptor) (SF receptor) (Tyrosine-protein kinase Met),MET
+5,ENSP00000261799,PGFRB_HUMAN,Platelet-derived growth factor receptor beta (PDGF-R-beta) (PDGFR-beta) (EC 2.7.10.1) (Beta platelet-derived growth factor receptor) (Beta-type platelet-derived growth factor receptor) (CD140 antigen-like family member B) (Platelet-derived growth factor receptor 1) (PDGFR-1) (CD antigen CD140b),PDGFRB PDGFR PDGFR1
+6,ENSP00000257290,PGFRA_HUMAN,Platelet-derived growth factor receptor alpha (PDGF-R-alpha) (PDGFR-alpha) (EC 2.7.10.1) (Alpha platelet-derived growth factor receptor) (Alpha-type platelet-derived growth factor receptor) (CD140 antigen-like family member A) (CD140a antigen) (Platelet-derived growth factor alpha receptor) (Platelet-derived growth factor receptor 2) (PDGFR-2) (CD antigen CD140a),PDGFRA PDGFR2 RHEPDGFRA
+7,ENSP00000410294,FGFR2_HUMAN,Fibroblast growth factor receptor 2 (FGFR-2) (EC 2.7.10.1) (K-sam) (KGFR) (Keratinocyte growth factor receptor) (CD antigen CD332),FGFR2 BEK KGFR KSAM
+8,ENSP00000282397,VGFR1_HUMAN,Vascular endothelial growth factor receptor 1 (VEGFR-1) (EC 2.7.10.1) (Fms-like tyrosine kinase 1) (FLT-1) (Tyrosine-protein kinase FRT) (Tyrosine-protein kinase receptor FLT) (FLT) (Vascular permeability factor receptor),FLT1 FLT FRT VEGFR1
+9,ENSP00000360798,EPS15_HUMAN,Epidermal growth factor receptor substrate 15 (Protein Eps15) (Protein AF-1p),EPS15 AF1P
+10,ENSP00000172229,TNR16_HUMAN,Tumor necrosis factor receptor superfamily member 16 (Gp80-LNGFR) (Low affinity neurotrophin receptor p75NTR) (Low-affinity nerve growth factor receptor) (NGF receptor) (p75 ICD) (CD antigen CD271),NGFR TNFRSF16
+11,ENSP00000339824,FGFR3_HUMAN,Fibroblast growth factor receptor 3 (FGFR-3) (EC 2.7.10.1) (CD antigen CD333),FGFR3 JTK4
+12,ENSP00000261937,VGFR3_HUMAN,Vascular endothelial growth factor receptor 3 (VEGFR-3) (EC 2.7.10.1) (Fms-like tyrosine kinase 4) (FLT-4) (Tyrosine-protein kinase receptor FLT4),FLT4 VEGFR3
+13,ENSP00000281172,EPS8_HUMAN,Epidermal growth factor receptor kinase substrate 8,EPS8
+14,ENSP00000292408,FGFR4_HUMAN,Fibroblast growth factor receptor 4 (FGFR-4) (EC 2.7.10.1) (CD antigen CD334),FGFR4 JTK2 TKF
+15,ENSP00000393313,EP15R_HUMAN,Epidermal growth factor receptor substrate 15-like 1 (Eps15-related protein) (Eps15R),EPS15L1 EPS15R
+16,ENSP00000403459,GRB7_HUMAN,Growth factor receptor-bound protein 7 (B47) (Epidermal growth factor receptor GRB-7) (GRB7 adapter protein),GRB7
+17,ENSP00000447241,FRS2_HUMAN,Fibroblast growth factor receptor substrate 2 (FGFR substrate 2) (FGFR-signaling adaptor SNT) (Suc1-associated neurotrophic factor target 1) (SNT-1),FRS2
+18,ENSP00000359464,OGRL1_HUMAN,Opioid growth factor receptor-like protein 1,OGFRL1
+19,ENSP00000446054,BEX5_HUMAN,Protein BEX5 (Brain-expressed X-linked protein 5) (NGFRAP1-like protein 1) (Nerve growth factor receptor-associated protein 2),BEX5 NADE2 NGFRAP1L1
+20,ENSP00000262316,RHDF1_HUMAN,Inactive rhomboid protein 1 (iRhom1) (Epidermal growth factor receptor-related protein) (Rhomboid 5 homolog 1) (Rhomboid family member 1) (p100hRho),RHBDF1 C16orf8 DIST1 IRHOM1
+21,ENSP00000362109,FRS3_HUMAN,Fibroblast growth factor receptor substrate 3 (FGFR substrate 3) (FGFR-signaling adaptor SNT2) (Suc1-associated neurotrophic factor target 2) (SNT-2),FRS3
+22,ENSP00000435585,ES8L2_HUMAN,Epidermal growth factor receptor kinase substrate 8-like protein 2 (EPS8-like protein 2) (Epidermal growth factor receptor pathway substrate 8-related protein 2) (EPS8-related protein 2),EPS8L2 EPS8R2 PP13181
+23,ENSP00000205061,GSLG1_HUMAN,Golgi apparatus protein 1 (CFR-1) (Cysteine-rich fibroblast growth factor receptor) (E-selectin ligand 1) (ESL-1) (Golgi sialoglycoprotein MG-160),GLG1 CFR1 ESL1 MG160
+24,ENSP00000358820,ES8L3_HUMAN,Epidermal growth factor receptor kinase substrate 8-like protein 3 (EPS8-like protein 3) (Epidermal growth factor receptor pathway substrate 8-related protein 3) (EPS8-related protein 3),EPS8L3 EPS8R3
+25,ENSP00000381498,FGRL1_HUMAN,Fibroblast growth factor receptor-like 1 (FGF receptor-like protein 1) (FGF homologous factor receptor) (FGFR-like protein) (Fibroblast growth factor receptor 5) (FGFR-5),FGFRL1 FGFR5 FHFR UNQ480/PRO943
+26,ENSP00000361728,BEX3_HUMAN,Protein BEX3 (Brain-expressed X-linked protein 3) (Nerve growth factor receptor-associated protein 1) (Ovarian granulosa cell 13.0 kDa protein HGR74) (p75NTR-associated cell death executor),BEX3 DXS6984E NADE NGFRAP1
+27,ENSP00000444211,PGFRL_HUMAN,Platelet-derived growth factor receptor-like protein (PDGFR-like protein) (PDGF receptor beta-like tumor suppressor),PDGFRL PRLTS
+28,ENSP00000353013,CLC14_HUMAN,C-type lectin domain family 14 member A (Epidermal growth factor receptor 5) (EGFR-5),CLEC14A C14orf27 EGFR5 UNQ236/PRO269
+29,ENSP00000201647,ES8L1_HUMAN,Epidermal growth factor receptor kinase substrate 8-like protein 1 (EPS8-like protein 1) (Epidermal growth factor receptor pathway substrate 8-related protein 1) (EPS8-related protein 1),EPS8L1 DRC3 EPS8R1 PP10566
+30,ENSP00000290291,OGFR_HUMAN,Opioid growth factor receptor (OGFr) (Protein 7-60) (Zeta-type opioid receptor),OGFR
+31,ENSP00000361780,BEX4_HUMAN,Protein BEX4 (BEX1-like protein 1) (Brain-expressed X-linked protein 4) (Nerve growth factor receptor-associated protein 3),BEX4 BEXL1 NADE3
